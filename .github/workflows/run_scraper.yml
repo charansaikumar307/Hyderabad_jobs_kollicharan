@@ -2,7 +2,8 @@ name: Scrape Jobs to GitHub JSON
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    # Runs daily at 9:30 AM IST (04:00 UTC) and 6:30 PM IST (13:00 UTC)
+    - cron: "0 4,13 * * *"
   workflow_dispatch:
 
 permissions:
@@ -29,11 +30,11 @@ jobs:
           CHAT_ID: ${{ secrets.CHAT_ID }}
         run: python scraper.py
 
-      - name: Commit updated jobs.json
+      - name: Commit updated JSON files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@://github.com"
           git add jobs.json companies.json
-          git diff --staged --quiet || git commit -m "chore: update scraped jobs"
+          git diff --staged --quiet || git commit -m "chore: update GCC/MNC jobs and companies"
           git push
           

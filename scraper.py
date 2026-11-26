@@ -1,10 +1,9 @@
-import csv
 import glob
-import io
 import json
 import os
 import re
 import time
+import pandas as pd
 import requests
 from jobspy import scrape_jobs
 
@@ -22,7 +21,7 @@ JOBS_FILE = "jobs.json"
 STRICT_GCC_MNC_ONLY = True
 
 def clean_company(name):
-    name = name.lower()
+    name = str(name).lower()
     name = re.sub(r"\([^)]*\)", " ", name)
     name = re.sub(
         r"\b(pvt|ltd|private|limited|india|inc|llc|llp|corp|services|solutions|technologies|technology|group|global|gds|usi|acceleration|centers|centre|center|hospital|hospitals|pharmaceuticals|pharma)\b",
@@ -32,36 +31,31 @@ def clean_company(name):
     return re.sub(r"[^a-z0-9]", "", name)
 
 gcc_mnc_map = {}
-csv_files = glob.glob("*.csv") + glob.glob("*.CSV")
-print(f"Found CSV files: {csv_files}")
+xlsx_files = glob.glob("*.xlsx") + glob.glob("*.XLSX")
+print(f"Found Excel files: {xlsx_files}")
 
-for csv_path in csv_files:
-    with open(csv_path, "r", encoding="utf-8-sig", errors="ignore") as f:
-        lines = f.readlines()
+for xlsx_path in xlsx_files:
+    excel_sheets = pd.read_excel(xlsx_path, sheet_name=None, header=None)
+    for sheet_name, sheet_df in excel_sheets.items():
+        for _, row in sheet_df.iterrows():
+            vals = [str(v).strip() for v in row.tolist() if pd.notna(v)]
+            if len(vals) < 2:
+                continue
+            cat = vals.pop(0).upper()
+            comp = vals.pop(0)
+            sector = vals.pop(0) if vals else ""
 
-    # Find the exact header line containing 'category' and 'company'
-    start_idx = 0
-    for i, line in enumerate(lines):
-        low = line.lower()
-        if "category" in low and "company" in low:
-            start_idx = i
-            break
-
-    reader = csv.DictReader(io.StringIO("".join(lines[start_idx:])))
-    for row in reader:
-        row_lower = {k.strip().lower(): (v or "").strip() for k, v in row.items() if k}
-        cat = row_lower.get("category", "").upper()
-        comp = row_lower.get("company", "")
-        sector = row_lower.get("domain / sector", "")
-        if cat in ("GCC", "MNC") and comp:
-            aliases = [re.sub(r"\([^)]*\)", "", comp).strip()]
-            aliases.extend(re.findall(r"\(([^)]*)\)", comp))
-            for alias in aliases:
-                key = clean_company(alias)
-                if len(key) >= 3:
-                    gcc_mnc_map[key] = {"category": cat, "sector": sector}
+            if cat in ("GCC", "MNC") and comp:
+                aliases = [re.sub(r"\([^)]*\)", "", comp).strip()]
+                aliases.extend(re.findall(r"\(([^)]*)\)", comp))
+                for alias in aliases:
+                    key = clean_company(alias)
+                    if len(key) >= 3:
+                        gcc_mnc_map[key] = {"category": cat, "sector": sector, "name": comp}
 
 print(f"Loaded {len(gcc_mnc_map)} normalized GCC & MNC keys.")
+if gcc_mnc_map:
+    print(f"Sample loaded keys: {list(gcc_mnc_map.keys())[:5]}")
 
 def match_gcc_mnc(scraped_company):
     cleaned = clean_company(scraped_company)

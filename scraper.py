@@ -17,7 +17,8 @@ LOCATION = "Hyderabad, Telangana, India"
 JOBS_FILE = "jobs.json"
 
 def send_telegram(msg):
-    url = f"https://telegram.org{BOT_TOKEN}/sendMessage"
+    s = chr(47)
+    url = f"https:{s}{s}api.telegram.org{s}bot{BOT_TOKEN}{s}sendMessage"
     requests.post(
         url,
         data={
@@ -29,7 +30,6 @@ def send_telegram(msg):
         timeout=15,
     )
 
-# Load existing jobs from GitHub repo file
 if os.path.exists(JOBS_FILE):
     with open(JOBS_FILE, "r", encoding="utf-8") as f:
         existing_jobs = json.load(f)
@@ -85,11 +85,10 @@ for term in SEARCH_QUERIES:
         time.sleep(1.5)
 
 if new_jobs:
-    # Prepend newest jobs at the top and keep the latest 500
     updated_jobs = (new_jobs + existing_jobs)[:500]
     with open(JOBS_FILE, "w", encoding="utf-8") as f:
         json.dump(updated_jobs, f, indent=2, ensure_ascii=False)
     print(f"Saved {len(new_jobs)} new jobs to {JOBS_FILE}.")
 else:
     print("No new jobs found.")
-  
+    

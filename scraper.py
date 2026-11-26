@@ -54,6 +54,21 @@ for xlsx_path in xlsx_files:
                         gcc_mnc_map[key] = {"category": cat, "sector": sector, "name": comp}
 
 print(f"Loaded {len(gcc_mnc_map)} normalized GCC & MNC keys.")
+# Export unique GCC & MNC companies list for Lovable UI
+unique_companies = []
+seen_comp_names = set()
+for info in gcc_mnc_map.values():
+    if info["name"] not in seen_comp_names:
+        seen_comp_names.add(info["name"])
+        unique_companies.append({
+            "name": info["name"],
+            "category": info["category"],
+            "sector": info["sector"]
+        })
+unique_companies.sort(key=lambda x: x["name"].lower())
+with open("companies.json", "w", encoding="utf-8") as cf:
+    json.dump(unique_companies, cf, indent=2, ensure_ascii=False)
+print(f"Exported {len(unique_companies)} companies to companies.json.")
 if gcc_mnc_map:
     print(f"Sample loaded keys: {list(gcc_mnc_map.keys())[:5]}")
 

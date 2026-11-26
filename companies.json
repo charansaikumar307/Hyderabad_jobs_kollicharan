@@ -2,2706 +2,3247 @@
   {
     "name": "24[7].ai",
     "category": "GCC",
-    "sector": "Technology/AI"
+    "sector": "Technology/AI",
+    "description": "Hyderabad global capability centre (set up 2000)"
   },
   {
     "name": "ABB",
     "category": "GCC",
-    "sector": "Engineering/Industrial"
+    "sector": "Engineering/Industrial",
+    "description": "Hyderabad global capability centre (set up 2002)"
   },
   {
     "name": "Abbott",
     "category": "GCC",
-    "sector": "Healthcare/MedTech"
+    "sector": "Healthcare/MedTech",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "ABC Fitness",
     "category": "GCC",
-    "sector": "Professional Services"
+    "sector": "Professional Services",
+    "description": "Hyderabad global capability centre (set up 2024)"
   },
   {
     "name": "Accenture",
     "category": "MNC",
-    "sector": "Global MNC (IT/Consulting)"
+    "sector": "Global MNC (IT/Consulting)",
+    "description": "Largest tracked headcount in Hyderabad; mass fresher hiring"
   },
   {
     "name": "Access Healthcare",
     "category": "MNC",
-    "sector": "Global MNC (BPO/CX)"
+    "sector": "Global MNC (BPO/CX)",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Accordion",
     "category": "MNC",
-    "sector": "Global MNC (Consulting)"
+    "sector": "Global MNC (Consulting)",
+    "description": "Finance consulting and analytics"
   },
   {
     "name": "Acumatica",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Opened GCC in Hyderabad"
   },
   {
     "name": "Adidas",
     "category": "GCC",
-    "sector": "Retail/Consumer"
+    "sector": "Retail/Consumer",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Adobe",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "ADP",
     "category": "GCC",
-    "sector": "Professional/HR-Tech"
+    "sector": "Professional/HR-Tech",
+    "description": "Payroll and HCM platforms"
   },
   {
     "name": "Agilent Technologies",
     "category": "GCC",
-    "sector": "Healthcare/Pharma"
+    "sector": "Healthcare/Pharma",
+    "description": "Indian biopharma capability centre"
   },
   {
     "name": "AIA Group",
     "category": "GCC",
-    "sector": "BFSI/Insurance"
+    "sector": "BFSI/Insurance",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "AIG Hospitals",
     "category": "MNC",
-    "sector": "Indian Large Corp (Healthcare)"
+    "sector": "Indian Large Corp (Healthcare)",
+    "description": "Gastroenterology and multi-speciality hospital"
   },
   {
     "name": "Airbus",
     "category": "GCC",
-    "sector": "Engineering/Aerospace"
+    "sector": "Engineering/Aerospace",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Akamai Technologies",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Al Ansari Financial Services",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Alcatel-Lucent Enterprise",
     "category": "GCC",
-    "sector": "Telecom"
+    "sector": "Telecom",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Align Technology",
     "category": "GCC",
-    "sector": "Healthcare/MedTech"
+    "sector": "Healthcare/MedTech",
+    "description": "Hyderabad global capability centre (set up 2023)"
   },
   {
     "name": "Alstom",
     "category": "GCC",
-    "sector": "Engineering/Industrial"
+    "sector": "Engineering/Industrial",
+    "description": "Rail rolling stock and signalling engineering"
   },
   {
     "name": "Alter Domus",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Fund administration, KYC/CLM, company secretarial, accounting and IT for alternatives managers"
   },
   {
     "name": "Alvarez & Marsal",
     "category": "GCC",
-    "sector": "Professional Services"
+    "sector": "Professional Services",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Amazon",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Alexa, AWS, payments and e-commerce engineering; one of its largest campuses globally"
   },
   {
     "name": "AMD",
     "category": "GCC",
-    "sector": "Semiconductor"
+    "sector": "Semiconductor",
+    "description": "CPU/GPU/AI silicon design"
   },
   {
     "name": "Amdocs",
     "category": "GCC",
-    "sector": "Engineering/Industrial"
+    "sector": "Engineering/Industrial",
+    "description": "Hyderabad global capability centre (set up 2004)"
   },
   {
     "name": "American Airlines",
     "category": "GCC",
-    "sector": "Retail/Consumer"
+    "sector": "Retail/Consumer",
+    "description": "Hyderabad tech hub expanding"
   },
   {
     "name": "American Express",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Ameriprise Financial",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Hyderabad global capability centre (set up 2005)"
   },
   {
     "name": "Amgen",
     "category": "GCC",
-    "sector": "Healthcare/Pharma"
+    "sector": "Healthcare/Pharma",
+    "description": "Amgen India: technology and operations"
   },
   {
     "name": "Analog Devices",
     "category": "GCC",
-    "sector": "Semiconductor"
+    "sector": "Semiconductor",
+    "description": "Analog / mixed-signal design"
   },
   {
     "name": "Anarock",
     "category": "MNC",
-    "sector": "Indian Large Corp (Real Estate Services)"
+    "sector": "Indian Large Corp (Real Estate Services)",
+    "description": "Real-estate advisory and capital markets"
   },
   {
     "name": "Anheuser-Busch InBev",
     "category": "GCC",
-    "sector": "Retail/Consumer"
+    "sector": "Retail/Consumer",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Aon",
     "category": "GCC",
-    "sector": "Professional/Consulting"
+    "sector": "Professional/Consulting",
+    "description": "Global operations and technology"
   },
   {
     "name": "Aparna Constructions",
     "category": "MNC",
-    "sector": "Indian Large Corp (Real Estate)"
+    "sector": "Indian Large Corp (Real Estate)",
+    "description": "Hyderabad-HQ developer"
   },
   {
     "name": "Apollo Hospitals",
     "category": "MNC",
-    "sector": "Indian Large Corp (Healthcare)"
+    "sector": "Indian Large Corp (Healthcare)",
+    "description": "Hospitals, corporate and admin functions"
   },
   {
     "name": "Apple",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Apple Maps development centre"
   },
   {
     "name": "Applied Materials",
     "category": "GCC",
-    "sector": "Semiconductor"
+    "sector": "Semiconductor",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Aragen Life Sciences",
     "category": "MNC",
-    "sector": "Indian Large Corp (Pharma)"
+    "sector": "Indian Large Corp (Pharma)",
+    "description": "Hyderabad-based research and CDMO"
   },
   {
     "name": "ArcelorMittal (AMGBT)",
     "category": "GCC",
-    "sector": "Energy/Industrial"
+    "sector": "Energy/Industrial",
+    "description": "Global capability centre (Hyderabad & Pune), Feb 2026"
   },
   {
     "name": "Arcesium",
     "category": "GCC",
-    "sector": "Technology/FinTech"
+    "sector": "Technology/FinTech",
+    "description": "Data and operations platform for the buy side (D. E. Shaw group)"
   },
   {
     "name": "Archer Daniels Midland (ADM)",
     "category": "GCC",
-    "sector": "Retail/Consumer"
+    "sector": "Retail/Consumer",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Arista Networks",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "ARM Holdings",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Artech",
     "category": "MNC",
-    "sector": "Global MNC (IT Services)"
+    "sector": "Global MNC (IT Services)",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Ashland",
     "category": "GCC",
-    "sector": "Engineering/Industrial"
+    "sector": "Engineering/Industrial",
+    "description": "Finance and IT global business services"
   },
   {
     "name": "ASML",
     "category": "GCC",
-    "sector": "Semiconductor"
+    "sector": "Semiconductor",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Aspen Technology",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "AstraZeneca",
     "category": "GCC",
-    "sector": "Healthcare/Pharma"
+    "sector": "Healthcare/Pharma",
+    "description": "Hyderabad global capability centre"
   },
   {
     "name": "AT&T",
     "category": "GCC",
-    "sector": "Telecom"
+    "sector": "Telecom",
+    "description": "Technology and operations"
   },
   {
     "name": "Atlassian",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Atos",
     "category": "MNC",
-    "sector": "Global MNC (IT Services)"
+    "sector": "Global MNC (IT Services)",
+    "description": "IT services and infrastructure"
   },
   {
     "name": "Aurobindo Pharma",
     "category": "MNC",
-    "sector": "Indian Large Corp (Pharma)"
+    "sector": "Indian Large Corp (Pharma)",
+    "description": "Hyderabad-headquartered pharma"
   },
   {
     "name": "Autodesk",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Axtria",
     "category": "GCC",
-    "sector": "Technology/Analytics"
+    "sector": "Technology/Analytics",
+    "description": "Hyderabad global capability centre (set up 2024)"
   },
   {
     "name": "Azurity Pharmaceuticals",
     "category": "GCC",
-    "sector": "Healthcare/Pharma"
+    "sector": "Healthcare/Pharma",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Bain & Company",
     "category": "MNC",
-    "sector": "Global MNC (Consulting)"
+    "sector": "Global MNC (Consulting)",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Baker Hughes",
     "category": "GCC",
-    "sector": "Engineering/Industrial"
+    "sector": "Engineering/Industrial",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Bank of America",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Global Business Services: tech, ops, analytics"
   },
   {
     "name": "Barry Callebaut",
     "category": "GCC",
-    "sector": "Retail/Consumer"
+    "sector": "Retail/Consumer",
+    "description": "Hyderabad global capability centre (set up 2025)"
   },
   {
     "name": "BASF",
     "category": "GCC",
-    "sector": "Energy/Industrial"
+    "sector": "Energy/Industrial",
+    "description": "Global service and digital hub announced May 2026"
   },
   {
     "name": "Bayer",
     "category": "GCC",
-    "sector": "Healthcare/Pharma"
+    "sector": "Healthcare/Pharma",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "BDO India",
     "category": "MNC",
-    "sector": "Global MNC (Consulting/Audit)"
+    "sector": "Global MNC (Consulting/Audit)",
+    "description": "Audit, tax and advisory"
   },
   {
     "name": "Becton Dickinson (BD)",
     "category": "GCC",
-    "sector": "Healthcare/MedTech"
+    "sector": "Healthcare/MedTech",
+    "description": "Engineering and technology centre"
   },
   {
     "name": "BEL (Hyderabad unit)",
     "category": "MNC",
-    "sector": "PSU / Defence"
+    "sector": "PSU / Defence",
+    "description": "Defence electronics"
   },
   {
     "name": "Bharat Biotech",
     "category": "MNC",
-    "sector": "Indian Large Corp (Pharma)"
+    "sector": "Indian Large Corp (Pharma)",
+    "description": "Hyderabad-headquartered vaccines"
   },
   {
     "name": "Bharat Dynamics (BDL)",
     "category": "MNC",
-    "sector": "PSU / Defence"
+    "sector": "PSU / Defence",
+    "description": "Hyderabad-HQ missile maker"
   },
   {
     "name": "BHEL",
     "category": "MNC",
-    "sector": "PSU / Defence"
+    "sector": "PSU / Defence",
+    "description": "Hyderabad units (power and industrial)"
   },
   {
     "name": "Billtrust",
     "category": "GCC",
-    "sector": "BFSI/FinTech"
+    "sector": "BFSI/FinTech",
+    "description": "Hyderabad global capability centre (set up 2026)"
   },
   {
     "name": "Biological E",
     "category": "MNC",
-    "sector": "Indian Large Corp (Pharma)"
+    "sector": "Indian Large Corp (Pharma)",
+    "description": "Hyderabad-headquartered vaccines"
   },
   {
     "name": "Birlasoft",
     "category": "MNC",
-    "sector": "Large Indian IT"
+    "sector": "Large Indian IT",
+    "description": "Enterprise IT services"
   },
   {
     "name": "Blue Yonder",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Supply-chain software R&D"
   },
   {
     "name": "Blupace Tech",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Hyderabad global capability centre (set up 2026)"
   },
   {
     "name": "BMC Software",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Boeing",
     "category": "GCC",
-    "sector": "Engineering/Aerospace"
+    "sector": "Engineering/Aerospace",
+    "description": "Hyderabad centre/office reported by Built In Hyderabad listing"
   },
   {
     "name": "Bombardier",
     "category": "GCC",
-    "sector": "Engineering/Aerospace"
+    "sector": "Engineering/Aerospace",
+    "description": "Hyderabad global capability centre (set up 2011)"
   },
   {
     "name": "Booking Holdings",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Booz Allen Hamilton",
     "category": "GCC",
-    "sector": "Professional Services"
+    "sector": "Professional Services",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Bosch Global Software Technologies",
     "category": "GCC",
-    "sector": "Engineering/Automotive"
+    "sector": "Engineering/Automotive",
+    "description": "Embedded automotive software and IT"
   },
   {
     "name": "Boston Consulting Group (BCG)",
     "category": "MNC",
-    "sector": "Global MNC (Consulting)"
+    "sector": "Global MNC (Consulting)",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Bridgestone India Technology Centre",
     "category": "GCC",
-    "sector": "Engineering/Automotive"
+    "sector": "Engineering/Automotive",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Brigade Group",
     "category": "MNC",
-    "sector": "Indian Large Corp (Real Estate)"
+    "sector": "Indian Large Corp (Real Estate)",
+    "description": "Developer with Hyderabad projects"
   },
   {
     "name": "Bristol Myers Squibb",
     "category": "GCC",
-    "sector": "Healthcare/Pharma"
+    "sector": "Healthcare/Pharma",
+    "description": "Largest BMS site outside the US"
   },
   {
     "name": "Broadridge",
     "category": "GCC",
-    "sector": "Technology/FinTech"
+    "sector": "Technology/FinTech",
+    "description": "Investor communications and capital-markets technology"
   },
   {
     "name": "Callaway Golf",
     "category": "GCC",
-    "sector": "Retail/Consumer"
+    "sector": "Retail/Consumer",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Capco",
     "category": "GCC",
-    "sector": "BFSI/Consulting"
+    "sector": "BFSI/Consulting",
+    "description": "Hyderabad global capability centre (set up 2004)"
   },
   {
     "name": "Capgemini",
     "category": "MNC",
-    "sector": "Global MNC (IT Services)"
+    "sector": "Global MNC (IT Services)",
+    "description": "Large Hyderabad delivery centres; fresher drives"
   },
   {
     "name": "CapitaLand",
     "category": "GCC",
-    "sector": "Professional/Real Estate"
+    "sector": "Professional/Real Estate",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "CARE Hospitals",
     "category": "MNC",
-    "sector": "Indian Large Corp (Healthcare)"
+    "sector": "Indian Large Corp (Healthcare)",
+    "description": "Hospital chain, Hyderabad flagship"
   },
   {
     "name": "Carelon Global Solutions India",
     "category": "GCC",
-    "sector": "Healthcare/IT"
+    "sector": "Healthcare/IT",
+    "description": "Healthcare IT, analytics, operations"
   },
   {
     "name": "Cargill",
     "category": "GCC",
-    "sector": "Retail/Consumer"
+    "sector": "Retail/Consumer",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Carrier",
     "category": "GCC",
-    "sector": "Engineering/Industrial"
+    "sector": "Engineering/Industrial",
+    "description": "Hyderabad global capability centre (set up 2010)"
   },
   {
     "name": "Caterpillar",
     "category": "GCC",
-    "sector": "Engineering/Industrial"
+    "sector": "Engineering/Industrial",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "CBRE",
     "category": "MNC",
-    "sector": "Global MNC (Real Estate Services)"
+    "sector": "Global MNC (Real Estate Services)",
+    "description": "Global real-estate services"
   },
   {
     "name": "CDK Global",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Automotive retail software"
   },
   {
     "name": "CGI",
     "category": "MNC",
-    "sector": "Global MNC (IT Services)"
+    "sector": "Global MNC (IT Services)",
+    "description": "IT and business consulting"
   },
   {
     "name": "Charles Schwab",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Technology and operations for the brokerage"
   },
   {
     "name": "Chubb",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Insurance platforms and digital products"
   },
   {
     "name": "CIBC",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Hyderabad GCC launched 2026 (operations, tech, risk)"
   },
   {
     "name": "Cisco Systems",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Citco",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Hyderabad global capability centre (set up 2006)"
   },
   {
     "name": "Citigroup (Citi)",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Hyderabad global capability centre"
   },
   {
     "name": "CitiusTech",
     "category": "GCC",
-    "sector": "Healthcare/IT"
+    "sector": "Healthcare/IT",
+    "description": "Hyderabad global capability centre (set up 2005)"
   },
   {
     "name": "Citizens Financial Group",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Hyderabad centre/office reported by Analytics India Magazine, 2025 greenfield GCC list"
   },
   {
     "name": "Citrin Cooperman",
     "category": "GCC",
-    "sector": "Professional Services"
+    "sector": "Professional Services",
+    "description": "Hyderabad global capability centre (set up 2016)"
   },
   {
     "name": "Clean Harbors",
     "category": "GCC",
-    "sector": "Engineering/Industrial"
+    "sector": "Engineering/Industrial",
+    "description": "Environmental services support"
   },
   {
     "name": "Coca-Cola",
     "category": "MNC",
-    "sector": "Global MNC (FMCG)"
+    "sector": "Global MNC (FMCG)",
+    "description": "Hyderabad centre/office reported by Listicle (7knetwork)"
   },
   {
     "name": "Codec",
     "category": "GCC",
-    "sector": "Professional Services"
+    "sector": "Professional Services",
+    "description": "Hyderabad global capability centre"
   },
   {
     "name": "Coforge",
     "category": "MNC",
-    "sector": "Large Indian IT"
+    "sector": "Large Indian IT",
+    "description": "Includes former NIIT Technologies"
   },
   {
     "name": "Cognizant",
     "category": "MNC",
-    "sector": "Large Indian IT"
+    "sector": "Large Indian IT",
+    "description": "Gachibowli offices; GenC fresher program"
   },
   {
     "name": "Cohance Lifesciences (Suven)",
     "category": "MNC",
-    "sector": "Indian Large Corp (Pharma)"
+    "sector": "Indian Large Corp (Pharma)",
+    "description": "Hyderabad-HQ CDMO"
   },
   {
     "name": "Cohere Health",
     "category": "GCC",
-    "sector": "Healthcare/IT"
+    "sector": "Healthcare/IT",
+    "description": "Clinical AI company; Hyderabad GCC launched 2026"
   },
   {
     "name": "Colgate-Palmolive",
     "category": "GCC",
-    "sector": "Retail/Consumer"
+    "sector": "Retail/Consumer",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Colliers India",
     "category": "MNC",
-    "sector": "Global MNC (Real Estate Services)"
+    "sector": "Global MNC (Real Estate Services)",
+    "description": "Commercial real-estate advisory and leasing"
   },
   {
     "name": "Collins Aerospace",
     "category": "GCC",
-    "sector": "Engineering/Aerospace"
+    "sector": "Engineering/Aerospace",
+    "description": "Avionics engineering (RTX)"
   },
   {
     "name": "Comcast",
     "category": "GCC",
-    "sector": "Media/Telecom"
+    "sector": "Media/Telecom",
+    "description": "Media and connectivity software"
   },
   {
     "name": "CommScope",
     "category": "GCC",
-    "sector": "Telecom"
+    "sector": "Telecom",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Commvault",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Data protection products"
   },
   {
     "name": "Computacenter",
     "category": "MNC",
-    "sector": "Global MNC (IT Services)"
+    "sector": "Global MNC (IT Services)",
+    "description": "IT infrastructure services"
   },
   {
     "name": "Concentrix",
     "category": "MNC",
-    "sector": "Global MNC (BPO/CX)"
+    "sector": "Global MNC (BPO/CX)",
+    "description": "Customer operations and technology"
   },
   {
     "name": "Conduent",
     "category": "MNC",
-    "sector": "Global MNC (BPO)"
+    "sector": "Global MNC (BPO)",
+    "description": "Transaction processing and BPO"
   },
   {
     "name": "Continental Hospitals",
     "category": "MNC",
-    "sector": "Indian Large Corp (Healthcare)"
+    "sector": "Indian Large Corp (Healthcare)",
+    "description": "Multi-speciality hospital, Nanakramguda"
   },
   {
     "name": "Copart",
     "category": "GCC",
-    "sector": "Engineering/Industrial"
+    "sector": "Engineering/Industrial",
+    "description": "Hyderabad global capability centre (set up 2017)"
   },
   {
     "name": "Cornerstone OnDemand",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "HR / learning software"
   },
   {
     "name": "Costco",
     "category": "GCC",
-    "sector": "Retail/Consumer"
+    "sector": "Retail/Consumer",
+    "description": "First India GCC: retail technology and analytics"
   },
   {
     "name": "Cotiviti",
     "category": "GCC",
-    "sector": "Healthcare/IT"
+    "sector": "Healthcare/IT",
+    "description": "Healthcare analytics"
   },
   {
     "name": "Crowe",
     "category": "GCC",
-    "sector": "Professional Services"
+    "sector": "Professional Services",
+    "description": "Hyderabad global capability centre (set up 2017)"
   },
   {
     "name": "CSG International",
     "category": "GCC",
-    "sector": "Telecom"
+    "sector": "Telecom",
+    "description": "Billing/customer-experience software"
   },
   {
     "name": "Cubic",
     "category": "GCC",
-    "sector": "Engineering/Aerospace"
+    "sector": "Engineering/Aerospace",
+    "description": "Transportation and defence systems"
   },
   {
     "name": "Cummins",
     "category": "GCC",
-    "sector": "Engineering/Industrial"
+    "sector": "Engineering/Industrial",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Curia",
     "category": "GCC",
-    "sector": "Healthcare/Pharma"
+    "sector": "Healthcare/Pharma",
+    "description": "Hyderabad global capability centre (set up 2006)"
   },
   {
     "name": "Cushman & Wakefield",
     "category": "MNC",
-    "sector": "Global MNC (Real Estate Services)"
+    "sector": "Global MNC (Real Estate Services)",
+    "description": "Commercial real-estate services"
   },
   {
     "name": "CVS Health",
     "category": "GCC",
-    "sector": "Healthcare/IT"
+    "sector": "Healthcare/IT",
+    "description": "Technology and analytics centre"
   },
   {
     "name": "Cyara",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Cyient",
     "category": "MNC",
-    "sector": "Large Indian IT"
+    "sector": "Large Indian IT",
+    "description": "Hyderabad-headquartered engineering services"
   },
   {
     "name": "D. E. Shaw",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Technology and operations for the investment firm"
   },
   {
     "name": "Dai-ichi Life",
     "category": "GCC",
-    "sector": "BFSI/Insurance"
+    "sector": "BFSI/Insurance",
+    "description": "Hyderabad global capability centre (set up 2025)"
   },
   {
     "name": "Danaher",
     "category": "GCC",
-    "sector": "Engineering/Industrial"
+    "sector": "Engineering/Industrial",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Datadog",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "DAZN",
     "category": "GCC",
-    "sector": "Media/Telecom"
+    "sector": "Media/Telecom",
+    "description": "Sports streaming technology"
   },
   {
     "name": "DBS Bank",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "DBS Tech India: largest offshore tech centre"
   },
   {
     "name": "Deliveroo",
     "category": "GCC",
-    "sector": "Retail/Consumer"
+    "sector": "Retail/Consumer",
+    "description": "Delivery platform engineering"
   },
   {
     "name": "Dell Technologies",
     "category": "GCC",
-    "sector": "Technology/Hardware"
+    "sector": "Technology/Hardware",
+    "description": "Server, storage, cloud and Dell.com software"
   },
   {
     "name": "Deloitte (USI)",
     "category": "MNC",
-    "sector": "Global MNC (Consulting/Audit)"
+    "sector": "Global MNC (Consulting/Audit)",
+    "description": "Software, data and consulting delivery"
   },
   {
     "name": "Deutsche Bank",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Deutsche Börse",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Hyderabad centre/office reported by Business Standard (CIBC article), 2026"
   },
   {
     "name": "DFE Pharma",
     "category": "GCC",
-    "sector": "Healthcare/Pharma"
+    "sector": "Healthcare/Pharma",
+    "description": "Hyderabad global capability centre (set up 2012)"
   },
   {
     "name": "Diebold Nixdorf",
     "category": "GCC",
-    "sector": "Engineering/Industrial"
+    "sector": "Engineering/Industrial",
+    "description": "Banking/retail hardware and software"
   },
   {
     "name": "DigitalOcean",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Hyderabad centre/office reported by Built In Hyderabad listing"
   },
   {
     "name": "Diligent",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Divi's Laboratories",
     "category": "MNC",
-    "sector": "Indian Large Corp (Pharma)"
+    "sector": "Indian Large Corp (Pharma)",
+    "description": "Hyderabad-headquartered pharma"
   },
   {
     "name": "Dr. Reddy's Laboratories",
     "category": "MNC",
-    "sector": "Indian Large Corp (Pharma)"
+    "sector": "Indian Large Corp (Pharma)",
+    "description": "Hyderabad-headquartered pharma"
   },
   {
     "name": "dsm-firmenich",
     "category": "GCC",
-    "sector": "Retail/Consumer"
+    "sector": "Retail/Consumer",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Dun & Bradstreet",
     "category": "GCC",
-    "sector": "Professional/Data"
+    "sector": "Professional/Data",
+    "description": "Data, analytics and technology"
   },
   {
     "name": "DuPont",
     "category": "GCC",
-    "sector": "Engineering/Industrial"
+    "sector": "Engineering/Industrial",
+    "description": "Knowledge Center: research and business services"
   },
   {
     "name": "DXC Technology",
     "category": "MNC",
-    "sector": "Global MNC (IT Services)"
+    "sector": "Global MNC (IT Services)",
+    "description": "Applications, analytics, insurance software"
   },
   {
     "name": "e2open",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Supply-chain platform"
   },
   {
     "name": "Eaton",
     "category": "GCC",
-    "sector": "Engineering/Industrial"
+    "sector": "Engineering/Industrial",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "EchoStar",
     "category": "GCC",
-    "sector": "Telecom"
+    "sector": "Telecom",
+    "description": "Satellite / broadband technology"
   },
   {
     "name": "ECIL",
     "category": "MNC",
-    "sector": "PSU / Defence"
+    "sector": "PSU / Defence",
+    "description": "Hyderabad-HQ electronics PSU"
   },
   {
     "name": "EdgeVerve",
     "category": "MNC",
-    "sector": "Large Indian IT"
+    "sector": "Large Indian IT",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "EisnerAmper",
     "category": "GCC",
-    "sector": "Professional Services"
+    "sector": "Professional Services",
+    "description": "Hyderabad global capability centre (set up 2007)"
   },
   {
     "name": "Electronic Arts",
     "category": "GCC",
-    "sector": "Media/Gaming"
+    "sector": "Media/Gaming",
+    "description": "Game development and services"
   },
   {
     "name": "Eli Lilly",
     "category": "GCC",
-    "sector": "Healthcare/Pharma"
+    "sector": "Healthcare/Pharma",
+    "description": "Lilly Capability Center, Gachibowli (expanding)"
   },
   {
     "name": "Emerson",
     "category": "GCC",
-    "sector": "Engineering/Industrial"
+    "sector": "Engineering/Industrial",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Entain",
     "category": "GCC",
-    "sector": "Media/Gaming"
+    "sector": "Media/Gaming",
+    "description": "Betting and gaming technology"
   },
   {
     "name": "EPAM Systems",
     "category": "MNC",
-    "sector": "Global MNC (IT Services)"
+    "sector": "Global MNC (IT Services)",
+    "description": "Product engineering services"
   },
   {
     "name": "Epiq",
     "category": "GCC",
-    "sector": "Professional Services"
+    "sector": "Professional Services",
+    "description": "Hyderabad global capability centre (set up 2020)"
   },
   {
     "name": "Ericsson",
     "category": "GCC",
-    "sector": "Telecom"
+    "sector": "Telecom",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "ESDS Software Solution",
     "category": "MNC",
-    "sector": "Large Indian IT"
+    "sector": "Large Indian IT",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Evalueserve",
     "category": "MNC",
-    "sector": "Global MNC (Research)"
+    "sector": "Global MNC (Research)",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Everbridge",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Evernorth Health Services",
     "category": "GCC",
-    "sector": "Healthcare/IT"
+    "sector": "Healthcare/IT",
+    "description": "Cigna's health-services technology hub"
   },
   {
     "name": "Experian",
     "category": "GCC",
-    "sector": "BFSI/Data"
+    "sector": "BFSI/Data",
+    "description": "India Development Centre: credit data and analytics"
   },
   {
     "name": "ExxonMobil",
     "category": "GCC",
-    "sector": "Energy"
+    "sector": "Energy",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "EY GDS (Ernst & Young)",
     "category": "MNC",
-    "sector": "Global MNC (Consulting/Audit)"
+    "sector": "Global MNC (Consulting/Audit)",
+    "description": "Tax, consulting and technology delivery"
   },
   {
     "name": "F5 Networks",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "FactSet",
     "category": "GCC",
-    "sector": "BFSI/Data"
+    "sector": "BFSI/Data",
+    "description": "Largest FactSet office; data operations and engineering"
   },
   {
     "name": "Fanatics",
     "category": "GCC",
-    "sector": "Retail/Consumer"
+    "sector": "Retail/Consumer",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "FedEx",
     "category": "GCC",
-    "sector": "Logistics"
+    "sector": "Logistics",
+    "description": "Technology and global services"
   },
   {
     "name": "Ficosa",
     "category": "GCC",
-    "sector": "Engineering/Automotive"
+    "sector": "Engineering/Automotive",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "First American",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Title insurance technology and operations"
   },
   {
     "name": "Firstsource",
     "category": "MNC",
-    "sector": "Global MNC (BPO/CX)"
+    "sector": "Global MNC (BPO/CX)",
+    "description": "BFSI and healthcare BPM"
   },
   {
     "name": "FIS",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Fiserv",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Ford India",
     "category": "GCC",
-    "sector": "Engineering/Automotive"
+    "sector": "Engineering/Automotive",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Forvis Mazars",
     "category": "GCC",
-    "sector": "Professional Services"
+    "sector": "Professional Services",
+    "description": "Hyderabad global capability centre (set up 2018)"
   },
   {
     "name": "Foundever (Sitel)",
     "category": "GCC",
-    "sector": "Professional Services"
+    "sector": "Professional Services",
+    "description": "Hyderabad global capability centre (set up 2012)"
   },
   {
     "name": "Fractal Analytics",
     "category": "MNC",
-    "sector": "Large Indian IT"
+    "sector": "Large Indian IT",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Franklin Templeton",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Asset-management operations and technology"
   },
   {
     "name": "Fresenius Medical Care",
     "category": "GCC",
-    "sector": "Healthcare/MedTech"
+    "sector": "Healthcare/MedTech",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Fujitsu",
     "category": "MNC",
-    "sector": "Global MNC (IT Services)"
+    "sector": "Global MNC (IT Services)",
+    "description": "IT services"
   },
   {
     "name": "G4S",
     "category": "GCC",
-    "sector": "Professional Services"
+    "sector": "Professional Services",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Gallagher",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Hyderabad global capability centre (set up 2006)"
   },
   {
     "name": "Garmin",
     "category": "GCC",
-    "sector": "Technology/Hardware"
+    "sector": "Technology/Hardware",
+    "description": "Hyderabad centre/office reported by Business of GCC directory"
   },
   {
     "name": "Gartner",
     "category": "MNC",
-    "sector": "Global MNC (Research)"
+    "sector": "Global MNC (Research)",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "GE Healthcare",
     "category": "GCC",
-    "sector": "Healthcare/MedTech"
+    "sector": "Healthcare/MedTech",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "General Electric (GE)",
     "category": "GCC",
-    "sector": "Engineering/Industrial"
+    "sector": "Engineering/Industrial",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Genpact",
     "category": "MNC",
-    "sector": "Large Indian IT"
+    "sector": "Large Indian IT",
+    "description": "BPO/IT services; runs Nestlé's GCC"
   },
   {
     "name": "GHX",
     "category": "GCC",
-    "sector": "Technology/Healthcare Supply Chain"
+    "sector": "Technology/Healthcare Supply Chain",
+    "description": "Healthcare supply-chain platform"
   },
   {
     "name": "Gilead Sciences",
     "category": "GCC",
-    "sector": "Healthcare/Pharma"
+    "sector": "Healthcare/Pharma",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Gland Pharma",
     "category": "MNC",
-    "sector": "Indian Large Corp (Pharma)"
+    "sector": "Indian Large Corp (Pharma)",
+    "description": "Hyderabad-headquartered injectables"
   },
   {
     "name": "GlobalFoundries",
     "category": "GCC",
-    "sector": "Semiconductor"
+    "sector": "Semiconductor",
+    "description": "Hyderabad global capability centre (set up 2010)"
   },
   {
     "name": "GlobalLogic",
     "category": "MNC",
-    "sector": "Global MNC (IT Services)"
+    "sector": "Global MNC (IT Services)",
+    "description": "Hitachi-owned digital engineering"
   },
   {
     "name": "Globant",
     "category": "GCC",
-    "sector": "Technology/IT Services"
+    "sector": "Technology/IT Services",
+    "description": "Hyderabad global capability centre"
   },
   {
     "name": "GMR Group",
     "category": "MNC",
-    "sector": "Indian Large Corp (Infra)"
+    "sector": "Indian Large Corp (Infra)",
+    "description": "Airports, energy and infrastructure"
   },
   {
     "name": "Goldman Sachs",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Trading platforms, risk systems, quant models"
   },
   {
     "name": "Goodyear",
     "category": "GCC",
-    "sector": "Engineering/Automotive"
+    "sector": "Engineering/Automotive",
+    "description": "Hyderabad global capability centre (set up 2025)"
   },
   {
     "name": "Google",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Search, Maps, Pay, Cloud and India-first products"
   },
   {
     "name": "Grant Thornton Bharat",
     "category": "MNC",
-    "sector": "Global MNC (Consulting/Audit)"
+    "sector": "Global MNC (Consulting/Audit)",
+    "description": "Audit, tax and advisory"
   },
   {
     "name": "Granules India",
     "category": "MNC",
-    "sector": "Indian Large Corp (Pharma)"
+    "sector": "Indian Large Corp (Pharma)",
+    "description": "Hyderabad-headquartered pharma"
   },
   {
     "name": "Greenko",
     "category": "MNC",
-    "sector": "Indian Large Corp (Energy)"
+    "sector": "Indian Large Corp (Energy)",
+    "description": "Hyderabad-HQ renewable energy"
   },
   {
     "name": "Grid Dynamics",
     "category": "MNC",
-    "sector": "Global MNC (IT Services)"
+    "sector": "Global MNC (IT Services)",
+    "description": "Digital engineering"
   },
   {
     "name": "GSK Pharmaceuticals",
     "category": "GCC",
-    "sector": "Healthcare/Pharma"
+    "sector": "Healthcare/Pharma",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Guidewire",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Harman International India",
     "category": "GCC",
-    "sector": "Technology/Hardware"
+    "sector": "Technology/Hardware",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "HCA Healthcare",
     "category": "GCC",
-    "sector": "Healthcare/IT"
+    "sector": "Healthcare/IT",
+    "description": "India GCC launched Sept 2025"
   },
   {
     "name": "HCLTech",
     "category": "MNC",
-    "sector": "Large Indian IT"
+    "sector": "Large Indian IT",
+    "description": "Large Hyderabad campuses; also runs client GCCs"
   },
   {
     "name": "HEINEKEN",
     "category": "GCC",
-    "sector": "Retail/Consumer"
+    "sector": "Retail/Consumer",
+    "description": "Business Services centre opened Apr 2026"
   },
   {
     "name": "Hetero Drugs",
     "category": "MNC",
-    "sector": "Indian Large Corp (Pharma)"
+    "sector": "Indian Large Corp (Pharma)",
+    "description": "Hyderabad-headquartered pharma"
   },
   {
     "name": "Hewlett Packard Enterprise",
     "category": "GCC",
-    "sector": "Technology/Hardware"
+    "sector": "Technology/Hardware",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Hexagon",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Geospatial and industrial software (Capability Center India)"
   },
   {
     "name": "Hinduja Tech",
     "category": "MNC",
-    "sector": "Large Indian IT"
+    "sector": "Large Indian IT",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Hitachi Energy India",
     "category": "GCC",
-    "sector": "Engineering/Industrial"
+    "sector": "Engineering/Industrial",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Hitachi Solutions",
     "category": "MNC",
-    "sector": "Global MNC (IT Services)"
+    "sector": "Global MNC (IT Services)",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Hitachi Vantara",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Data infrastructure software"
   },
   {
     "name": "Hogan Lovells",
     "category": "GCC",
-    "sector": "Professional Services"
+    "sector": "Professional Services",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Honeywell",
     "category": "GCC",
-    "sector": "Engineering/Industrial"
+    "sector": "Engineering/Industrial",
+    "description": "Aerospace, automation, IoT software"
   },
   {
     "name": "HSBC",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Global Service Centre: operations, analytics, risk, tech"
   },
   {
     "name": "Huron",
     "category": "MNC",
-    "sector": "Global MNC (Consulting)"
+    "sector": "Global MNC (Consulting)",
+    "description": "Consulting and analytics"
   },
   {
     "name": "Hyundai Mobis",
     "category": "GCC",
-    "sector": "Engineering/Automotive"
+    "sector": "Engineering/Automotive",
+    "description": "Integrated R&D centre / global software hub"
   },
   {
     "name": "Hyundai Motor India Engineering",
     "category": "GCC",
-    "sector": "Engineering/Automotive"
+    "sector": "Engineering/Automotive",
+    "description": "R&D campus expansion"
   },
   {
     "name": "IBM",
     "category": "MNC",
-    "sector": "Global MNC (IT/Product)"
+    "sector": "Global MNC (IT/Product)",
+    "description": "Software labs plus consulting delivery"
   },
   {
     "name": "ICE (Intercontinental Exchange)",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Exchange and data technology"
   },
   {
     "name": "IDEMIA",
     "category": "GCC",
-    "sector": "Technology/Security"
+    "sector": "Technology/Security",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "IKEA",
     "category": "GCC",
-    "sector": "Retail/Consumer"
+    "sector": "Retail/Consumer",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Indeed",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Job-search platform engineering"
   },
   {
     "name": "Indian Immunologicals",
     "category": "MNC",
-    "sector": "Indian Large Corp (Pharma)"
+    "sector": "Indian Large Corp (Pharma)",
+    "description": "Vaccines and biologicals, Hyderabad"
   },
   {
     "name": "Indian Motorcycle Company",
     "category": "GCC",
-    "sector": "Engineering/Automotive"
+    "sector": "Engineering/Automotive",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Indian School of Business (ISB)",
     "category": "MNC",
-    "sector": "Education"
+    "sector": "Education",
+    "description": "Business school, Hyderabad campus"
   },
   {
     "name": "Inditex (Zara India)",
     "category": "GCC",
-    "sector": "Retail/Consumer"
+    "sector": "Retail/Consumer",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Infor",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Cloud ERP and industry software development"
   },
   {
     "name": "Informatica",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Infosys",
     "category": "MNC",
-    "sector": "Large Indian IT"
+    "sector": "Large Indian IT",
+    "description": "Hyderabad Development Center; fresher programs"
   },
   {
     "name": "ING",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "ING Hubs: technology and operations"
   },
   {
     "name": "Ingram Micro",
     "category": "GCC",
-    "sector": "Technology/Hardware"
+    "sector": "Technology/Hardware",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Innova Solutions",
     "category": "MNC",
-    "sector": "Global MNC (IT Services)"
+    "sector": "Global MNC (IT Services)",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Insud Pharma",
     "category": "GCC",
-    "sector": "Healthcare/Pharma"
+    "sector": "Healthcare/Pharma",
+    "description": "Hyderabad global capability centre (set up 2008)"
   },
   {
     "name": "Intel",
     "category": "GCC",
-    "sector": "Semiconductor"
+    "sector": "Semiconductor",
+    "description": "CPU/GPU/SoC design"
   },
   {
     "name": "InterSystems",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Intuit",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Invesco",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Innovation hub for asset manager"
   },
   {
     "name": "IQVIA",
     "category": "MNC",
-    "sector": "Global MNC (Healthcare Services)"
+    "sector": "Global MNC (Healthcare Services)",
+    "description": "Clinical research and analytics"
   },
   {
     "name": "ITC Infotech",
     "category": "MNC",
-    "sector": "Large Indian IT"
+    "sector": "Large Indian IT",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Jabil Circuit",
     "category": "GCC",
-    "sector": "Engineering/Industrial"
+    "sector": "Engineering/Industrial",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Jarsh Safety",
     "category": "GCC",
-    "sector": "Engineering/Industrial"
+    "sector": "Engineering/Industrial",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Jio Platforms",
     "category": "MNC",
-    "sector": "Indian Large Corp (Conglomerate/Telecom)"
+    "sector": "Indian Large Corp (Conglomerate/Telecom)",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "JLL",
     "category": "GCC",
-    "sector": "Professional/Real Estate"
+    "sector": "Professional/Real Estate",
+    "description": "New 120,000 sq ft GCC (Aug 2026), ~1,600 hires planned"
   },
   {
     "name": "Johnson & Johnson",
     "category": "GCC",
-    "sector": "Healthcare/Pharma"
+    "sector": "Healthcare/Pharma",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Johnson Controls",
     "category": "GCC",
-    "sector": "Engineering/Industrial"
+    "sector": "Engineering/Industrial",
+    "description": "OpenBlue smart-building software"
   },
   {
     "name": "Jotun India",
     "category": "GCC",
-    "sector": "Engineering/Industrial"
+    "sector": "Engineering/Industrial",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "JPMorganChase",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Technology and global operations"
   },
   {
     "name": "Juniper Networks",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Kantar",
     "category": "MNC",
-    "sector": "Global MNC (Research)"
+    "sector": "Global MNC (Research)",
+    "description": "Market research and analytics"
   },
   {
     "name": "Kenvue",
     "category": "GCC",
-    "sector": "Retail/Consumer"
+    "sector": "Retail/Consumer",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "KFin Technologies",
     "category": "MNC",
-    "sector": "Indian Large Corp (FinServ)"
+    "sector": "Indian Large Corp (FinServ)",
+    "description": "Hyderabad-HQ registrar and fund-services tech"
   },
   {
     "name": "KIMS Hospitals",
     "category": "MNC",
-    "sector": "Indian Large Corp (Healthcare)"
+    "sector": "Indian Large Corp (Healthcare)",
+    "description": "Hyderabad-HQ hospital chain"
   },
   {
     "name": "KLA-Tencor",
     "category": "GCC",
-    "sector": "Semiconductor"
+    "sector": "Semiconductor",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Knight Frank India",
     "category": "MNC",
-    "sector": "Global MNC (Real Estate Services)"
+    "sector": "Global MNC (Real Estate Services)",
+    "description": "Commercial real-estate advisory and leasing"
   },
   {
     "name": "KnowBe4",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Kone India",
     "category": "GCC",
-    "sector": "Engineering/Industrial"
+    "sector": "Engineering/Industrial",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Kore.ai",
     "category": "GCC",
-    "sector": "Technology/AI"
+    "sector": "Technology/AI",
+    "description": "Conversational AI platform"
   },
   {
     "name": "KPMG",
     "category": "MNC",
-    "sector": "Global MNC (Consulting/Audit)"
+    "sector": "Global MNC (Consulting/Audit)",
+    "description": "Advisory and technology delivery"
   },
   {
     "name": "Kyndryl",
     "category": "MNC",
-    "sector": "Global MNC (IT Services)"
+    "sector": "Global MNC (IT Services)",
+    "description": "Infrastructure services (IBM spin-off)"
   },
   {
     "name": "L&T Construction",
     "category": "MNC",
-    "sector": "Indian Large Corp (Infra/Engineering)"
+    "sector": "Indian Large Corp (Infra/Engineering)",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "L&T Finance",
     "category": "MNC",
-    "sector": "Indian Large Corp (FinServ)"
+    "sector": "Indian Large Corp (FinServ)",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "L&T Technology Services (LTTS)",
     "category": "MNC",
-    "sector": "Large Indian IT"
+    "sector": "Large Indian IT",
+    "description": "Engineering services"
   },
   {
     "name": "L'Oréal",
     "category": "GCC",
-    "sector": "Retail/Consumer"
+    "sector": "Retail/Consumer",
+    "description": "Beauty-tech GCC (inauguration Nov 2026)"
   },
   {
     "name": "Lam Research",
     "category": "GCC",
-    "sector": "Semiconductor"
+    "sector": "Semiconductor",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Larsen & Toubro (L&T)",
     "category": "MNC",
-    "sector": "Indian Large Corp (Infra/Engineering)"
+    "sector": "Indian Large Corp (Infra/Engineering)",
+    "description": "Hyderabad centre/office reported by Listicle (askdaman)"
   },
   {
     "name": "Laurus Labs",
     "category": "MNC",
-    "sector": "Indian Large Corp (Pharma)"
+    "sector": "Indian Large Corp (Pharma)",
+    "description": "Hyderabad-HQ pharma and API"
   },
   {
     "name": "Lear Corporation",
     "category": "GCC",
-    "sector": "Engineering/Automotive"
+    "sector": "Engineering/Automotive",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Lenovo",
     "category": "GCC",
-    "sector": "Technology/Hardware"
+    "sector": "Technology/Hardware",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Linde India",
     "category": "GCC",
-    "sector": "Engineering/Industrial"
+    "sector": "Engineering/Industrial",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "LinkedIn",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Lloyds Technology Centre",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Banking platforms for Lloyds Banking Group"
   },
   {
     "name": "Lockheed Martin",
     "category": "GCC",
-    "sector": "Engineering/Aerospace"
+    "sector": "Engineering/Aerospace",
+    "description": "Engineering and aerospace manufacturing support"
   },
   {
     "name": "LogicMonitor",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Lonza",
     "category": "GCC",
-    "sector": "Healthcare/Pharma"
+    "sector": "Healthcare/Pharma",
+    "description": "Biotech-focused GCC announced March 2026"
   },
   {
     "name": "Lowe's",
     "category": "GCC",
-    "sector": "Retail/Consumer"
+    "sector": "Retail/Consumer",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "LPL Financial",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Hyderabad global capability centre (set up 2026)"
   },
   {
     "name": "LSEG",
     "category": "GCC",
-    "sector": "BFSI/Data"
+    "sector": "BFSI/Data",
+    "description": "Hyderabad global capability centre (set up 2004)"
   },
   {
     "name": "LTIMindtree",
     "category": "MNC",
-    "sector": "Large Indian IT"
+    "sector": "Large Indian IT",
+    "description": "Includes former Mindtree"
   },
   {
     "name": "Lumen Technologies",
     "category": "GCC",
-    "sector": "Telecom"
+    "sector": "Telecom",
+    "description": "Network and cloud software"
   },
   {
     "name": "Luminous Power Technologies",
     "category": "MNC",
-    "sector": "Indian Large Corp (Infra/Engineering)"
+    "sector": "Indian Large Corp (Infra/Engineering)",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Macquarie Group",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Hyderabad global capability centre (set up 2007)"
   },
   {
     "name": "Maersk Global Service Centre (India)",
     "category": "GCC",
-    "sector": "Logistics"
+    "sector": "Logistics",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Marriott International",
     "category": "GCC",
-    "sector": "Retail/Consumer"
+    "sector": "Retail/Consumer",
+    "description": "Hospitality technology hub"
   },
   {
     "name": "Mars",
     "category": "GCC",
-    "sector": "Retail/Consumer"
+    "sector": "Retail/Consumer",
+    "description": "Hyderabad global capability centre (set up 2026)"
   },
   {
     "name": "Marsh McLennan",
     "category": "GCC",
-    "sector": "BFSI/Insurance"
+    "sector": "BFSI/Insurance",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Marvell Technology",
     "category": "GCC",
-    "sector": "Semiconductor"
+    "sector": "Semiconductor",
+    "description": "Hyderabad global capability centre (set up 2019)"
   },
   {
     "name": "MassMutual India",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Hyderabad centre/office reported by Built In Hyderabad listing"
   },
   {
     "name": "Mastercard",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Payments technology"
   },
   {
     "name": "Materialise",
     "category": "GCC",
-    "sector": "Engineering/Industrial"
+    "sector": "Engineering/Industrial",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "MathWorks",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "MATLAB / Simulink development"
   },
   {
     "name": "McDonald's",
     "category": "GCC",
-    "sector": "Retail/Consumer"
+    "sector": "Retail/Consumer",
+    "description": "First India GCC; largest office outside the US"
   },
   {
     "name": "McKesson",
     "category": "GCC",
-    "sector": "Healthcare/IT"
+    "sector": "Healthcare/IT",
+    "description": "Technology and business services"
   },
   {
     "name": "McKinsey & Company",
     "category": "MNC",
-    "sector": "Global MNC (Consulting)"
+    "sector": "Global MNC (Consulting)",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Medicover Hospitals",
     "category": "MNC",
-    "sector": "Indian Large Corp (Healthcare)"
+    "sector": "Indian Large Corp (Healthcare)",
+    "description": "Hospital network"
   },
   {
     "name": "Medtronic",
     "category": "GCC",
-    "sector": "Healthcare/MedTech"
+    "sector": "Healthcare/MedTech",
+    "description": "Engineering & Innovation Center: largest R&D site outside US"
   },
   {
     "name": "Megha Engineering (MEIL)",
     "category": "MNC",
-    "sector": "Indian Large Corp (Infra)"
+    "sector": "Indian Large Corp (Infra)",
+    "description": "Hyderabad-HQ infrastructure and EPC"
   },
   {
     "name": "Mercedes-Benz Research & Development India",
     "category": "GCC",
-    "sector": "Engineering/Automotive"
+    "sector": "Engineering/Automotive",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Mercer",
     "category": "GCC",
-    "sector": "Professional Services"
+    "sector": "Professional Services",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Merck Group",
     "category": "GCC",
-    "sector": "Healthcare/Pharma"
+    "sector": "Healthcare/Pharma",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Meta",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Operations hub (community operations, policy); new Hitec City space"
   },
   {
     "name": "MetLife",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Global Capability Center for technology"
   },
   {
     "name": "Microchip Technology",
     "category": "GCC",
-    "sector": "Semiconductor"
+    "sector": "Semiconductor",
+    "description": "Semiconductor design (expansion announced)"
   },
   {
     "name": "Micron Technology",
     "category": "GCC",
-    "sector": "Semiconductor"
+    "sector": "Semiconductor",
+    "description": "Memory and SSD engineering"
   },
   {
     "name": "Microsoft",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "India Development Centre: Azure, AI, Office, security"
   },
   {
     "name": "MIDHANI",
     "category": "MNC",
-    "sector": "PSU / Defence"
+    "sector": "PSU / Defence",
+    "description": "Hyderabad-HQ special metals"
   },
   {
     "name": "Miltenyi Biotec",
     "category": "GCC",
-    "sector": "Healthcare/Pharma"
+    "sector": "Healthcare/Pharma",
+    "description": "Hyderabad centre/office reported by Analytics India Magazine, 2025 greenfield GCC list"
   },
   {
     "name": "Mitsui & Co.",
     "category": "GCC",
-    "sector": "Professional Services"
+    "sector": "Professional Services",
+    "description": "Hyderabad global capability centre"
   },
   {
     "name": "ModMed",
     "category": "GCC",
-    "sector": "Healthcare/IT"
+    "sector": "Healthcare/IT",
+    "description": "Specialty-practice healthcare software"
   },
   {
     "name": "Morgan Stanley",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Motorola Solutions",
     "category": "GCC",
-    "sector": "Technology/Hardware"
+    "sector": "Technology/Hardware",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Mphasis",
     "category": "MNC",
-    "sector": "Large Indian IT"
+    "sector": "Large Indian IT",
+    "description": "IT services"
   },
   {
     "name": "MSD (Merck & Co.)",
     "category": "GCC",
-    "sector": "Healthcare/Pharma"
+    "sector": "Healthcare/Pharma",
+    "description": "Ranked in LinkedIn Top Companies Hyderabad 2026"
   },
   {
     "name": "MSN Laboratories",
     "category": "MNC",
-    "sector": "Indian Large Corp (Pharma)"
+    "sector": "Indian Large Corp (Pharma)",
+    "description": "Hyderabad-headquartered pharma"
   },
   {
     "name": "My Home Group",
     "category": "MNC",
-    "sector": "Indian Large Corp (Real Estate)"
+    "sector": "Indian Large Corp (Real Estate)",
+    "description": "Hyderabad-HQ developer"
   },
   {
     "name": "Nasuni",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Hyderabad centre/office reported by Built In Hyderabad listing"
   },
   {
     "name": "Natco Pharma",
     "category": "MNC",
-    "sector": "Indian Large Corp (Pharma)"
+    "sector": "Indian Large Corp (Pharma)",
+    "description": "Hyderabad-headquartered pharma"
   },
   {
     "name": "NationsBenefits",
     "category": "GCC",
-    "sector": "Healthcare/IT"
+    "sector": "Healthcare/IT",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Nationwide",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Hyderabad centre/office reported by Business Standard, 2026"
   },
   {
     "name": "NCC Limited",
     "category": "MNC",
-    "sector": "Indian Large Corp (Infra)"
+    "sector": "Indian Large Corp (Infra)",
+    "description": "Hyderabad-HQ construction"
   },
   {
     "name": "NCR Atleos",
     "category": "GCC",
-    "sector": "Technology/Fintech"
+    "sector": "Technology/Fintech",
+    "description": "ATM and self-service technology"
   },
   {
     "name": "NCR Voyix",
     "category": "GCC",
-    "sector": "Technology/Fintech"
+    "sector": "Technology/Fintech",
+    "description": "Retail and restaurant technology"
   },
   {
     "name": "Nektar Therapeutics",
     "category": "GCC",
-    "sector": "Healthcare/Pharma"
+    "sector": "Healthcare/Pharma",
+    "description": "Hyderabad global capability centre (set up 2013)"
   },
   {
     "name": "Ness Digital Engineering",
     "category": "MNC",
-    "sector": "Global MNC (IT Services)"
+    "sector": "Global MNC (IT Services)",
+    "description": "Product engineering"
   },
   {
     "name": "Nestlé",
     "category": "GCC",
-    "sector": "Retail/Consumer"
+    "sector": "Retail/Consumer",
+    "description": "First India GCC, announced mid-2026"
   },
   {
     "name": "Netcracker",
     "category": "GCC",
-    "sector": "Technology/Telecom Software"
+    "sector": "Technology/Telecom Software",
+    "description": "Telecom OSS/BSS software development"
   },
   {
     "name": "Netflix",
     "category": "GCC",
-    "sector": "Media/Telecom"
+    "sector": "Media/Telecom",
+    "description": "Creative technology hub (chose Hyderabad over Bengaluru)"
   },
   {
     "name": "Neuland Laboratories",
     "category": "MNC",
-    "sector": "Indian Large Corp (Pharma)"
+    "sector": "Indian Large Corp (Pharma)",
+    "description": "Hyderabad-HQ API maker"
   },
   {
     "name": "New Relic",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Observability platform products"
   },
   {
     "name": "Newmark",
     "category": "GCC",
-    "sector": "Professional/Real Estate"
+    "sector": "Professional/Real Estate",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "NielsenIQ",
     "category": "MNC",
-    "sector": "Global MNC (Research)"
+    "sector": "Global MNC (Research)",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "NMDC",
     "category": "MNC",
-    "sector": "PSU / Defence"
+    "sector": "PSU / Defence",
+    "description": "Hyderabad-HQ mining PSU"
   },
   {
     "name": "Nokia",
     "category": "GCC",
-    "sector": "Telecom"
+    "sector": "Telecom",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Nordea",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Novartis",
     "category": "GCC",
-    "sector": "Healthcare/Pharma"
+    "sector": "Healthcare/Pharma",
+    "description": "R&D support, clinical development, shared services"
   },
   {
     "name": "NTT DATA",
     "category": "MNC",
-    "sector": "Global MNC (IT Services)"
+    "sector": "Global MNC (IT Services)",
+    "description": "IT services"
   },
   {
     "name": "Nucleus Software Exim",
     "category": "MNC",
-    "sector": "Large Indian IT"
+    "sector": "Large Indian IT",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Nutanix",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "NVIDIA",
     "category": "GCC",
-    "sector": "Semiconductor"
+    "sector": "Semiconductor",
+    "description": "Chip design and software engineering"
   },
   {
     "name": "O.C. Tanner",
     "category": "GCC",
-    "sector": "Professional Services"
+    "sector": "Professional Services",
+    "description": "Hyderabad global capability centre (set up 2017)"
   },
   {
     "name": "Octave",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Hyderabad global capability centre (set up 1987)"
   },
   {
     "name": "Omnicom Global Solutions",
     "category": "GCC",
-    "sector": "Media/Advertising"
+    "sector": "Media/Advertising",
+    "description": "Agency operations and adtech"
   },
   {
     "name": "Opella",
     "category": "GCC",
-    "sector": "Healthcare/Pharma"
+    "sector": "Healthcare/Pharma",
+    "description": "Hyderabad global capability centre (set up 2023)"
   },
   {
     "name": "Opendoor",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Real-estate tech engineering"
   },
   {
     "name": "OpenText",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Enterprise information management products"
   },
   {
     "name": "Optum",
     "category": "GCC",
-    "sector": "Healthcare/IT"
+    "sector": "Healthcare/IT",
+    "description": "UnitedHealth Group tech, operations and analytics"
   },
   {
     "name": "Oracle",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Database and Fusion cloud applications development"
   },
   {
     "name": "OTIS",
     "category": "GCC",
-    "sector": "Engineering/Industrial"
+    "sector": "Engineering/Industrial",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "P&G (Procter & Gamble)",
     "category": "GCC",
-    "sector": "Retail/Consumer"
+    "sector": "Retail/Consumer",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Palo Alto Networks",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Parexel",
     "category": "GCC",
-    "sector": "Healthcare/Pharma"
+    "sector": "Healthcare/Pharma",
+    "description": "Hyderabad global capability centre (set up 2007)"
   },
   {
     "name": "PayPal",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Payments, risk and data platforms"
   },
   {
     "name": "Pega (Pegasystems)",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Low-code and CRM platform"
   },
   {
     "name": "PepsiCo",
     "category": "GCC",
-    "sector": "Retail/Consumer"
+    "sector": "Retail/Consumer",
+    "description": "Global business services: finance, HR, analytics"
   },
   {
     "name": "PerkinElmer",
     "category": "GCC",
-    "sector": "Healthcare/Pharma"
+    "sector": "Healthcare/Pharma",
+    "description": "Hyderabad global capability centre (set up 2008)"
   },
   {
     "name": "Persistent Systems",
     "category": "MNC",
-    "sector": "Large Indian IT"
+    "sector": "Large Indian IT",
+    "description": "Product engineering services"
   },
   {
     "name": "Phenom",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Talent experience platform"
   },
   {
     "name": "Philip Morris International",
     "category": "GCC",
-    "sector": "Retail/Consumer"
+    "sector": "Retail/Consumer",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Philips",
     "category": "GCC",
-    "sector": "Healthcare/MedTech"
+    "sector": "Healthcare/MedTech",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Pinkerton",
     "category": "GCC",
-    "sector": "Professional Services"
+    "sector": "Professional Services",
+    "description": "Hyderabad global capability centre (set up 2006)"
   },
   {
     "name": "Piramal Pharma Solutions",
     "category": "MNC",
-    "sector": "Indian Large Corp (Pharma)"
+    "sector": "Indian Large Corp (Pharma)",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Prestige Group",
     "category": "MNC",
-    "sector": "Indian Large Corp (Real Estate)"
+    "sector": "Indian Large Corp (Real Estate)",
+    "description": "Developer with Hyderabad projects"
   },
   {
     "name": "Principal Financial Group",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Retirement and asset-management technology"
   },
   {
     "name": "Progress Software",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Infrastructure and app-development products"
   },
   {
     "name": "ProPharma",
     "category": "GCC",
-    "sector": "Healthcare/Pharma"
+    "sector": "Healthcare/Pharma",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Protiviti",
     "category": "MNC",
-    "sector": "Global MNC (Consulting/Audit)"
+    "sector": "Global MNC (Consulting/Audit)",
+    "description": "Risk, internal audit and technology consulting"
   },
   {
     "name": "Providence India",
     "category": "GCC",
-    "sector": "Healthcare/IT"
+    "sector": "Healthcare/IT",
+    "description": "Health-system technology and operations"
   },
   {
     "name": "Publicis Groupe",
     "category": "GCC",
-    "sector": "Media/Advertising"
+    "sector": "Media/Advertising",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Publicis Sapient",
     "category": "MNC",
-    "sector": "Global MNC (IT/Consulting)"
+    "sector": "Global MNC (IT/Consulting)",
+    "description": "Digital engineering consultancy"
   },
   {
     "name": "Pure Storage",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "PwC (Acceleration Centers)",
     "category": "MNC",
-    "sector": "Global MNC (Consulting/Audit)"
+    "sector": "Global MNC (Consulting/Audit)",
+    "description": "Audit, tax and consulting support"
   },
   {
     "name": "Qlik",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Qualcomm",
     "category": "GCC",
-    "sector": "Semiconductor"
+    "sector": "Semiconductor",
+    "description": "Largest engineering site outside San Diego (Snapdragon, wireless)"
   },
   {
     "name": "Qualitest",
     "category": "MNC",
-    "sector": "Global MNC (IT Services)"
+    "sector": "Global MNC (IT Services)",
+    "description": "Quality engineering and testing"
   },
   {
     "name": "Qualtrics",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Quest Diagnostics",
     "category": "GCC",
-    "sector": "Healthcare/Diagnostics"
+    "sector": "Healthcare/Diagnostics",
+    "description": "Hyderabad global capability centre (set up 2018)"
   },
   {
     "name": "Quest Global",
     "category": "MNC",
-    "sector": "Global MNC (IT Services)"
+    "sector": "Global MNC (IT Services)",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "R1 RCM",
     "category": "MNC",
-    "sector": "Global MNC (Healthcare Services)"
+    "sector": "Global MNC (Healthcare Services)",
+    "description": "Revenue-cycle operations and automation"
   },
   {
     "name": "Rackspace Technology",
     "category": "MNC",
-    "sector": "Global MNC (IT Services)"
+    "sector": "Global MNC (IT Services)",
+    "description": "Cloud services"
   },
   {
     "name": "Rainbow Children's Hospital",
     "category": "MNC",
-    "sector": "Indian Large Corp (Healthcare)"
+    "sector": "Indian Large Corp (Healthcare)",
+    "description": "Hyderabad-HQ paediatric hospital chain"
   },
   {
     "name": "Rajapushpa Properties",
     "category": "MNC",
-    "sector": "Indian Large Corp (Real Estate)"
+    "sector": "Indian Large Corp (Real Estate)",
+    "description": "Hyderabad-HQ developer"
   },
   {
     "name": "Ramboll",
     "category": "GCC",
-    "sector": "Engineering/Industrial"
+    "sector": "Engineering/Industrial",
+    "description": "Global engineering consultancy work"
   },
   {
     "name": "Ramco Systems",
     "category": "MNC",
-    "sector": "Large Indian IT"
+    "sector": "Large Indian IT",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Randstad",
     "category": "GCC",
-    "sector": "Professional Services"
+    "sector": "Professional Services",
+    "description": "Hyderabad global capability centre (set up 2007)"
   },
   {
     "name": "RBS (Royal Bank of Scotland)",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Re Sustainability (Ramky)",
     "category": "MNC",
-    "sector": "Indian Large Corp (Infra)"
+    "sector": "Indian Large Corp (Infra)",
+    "description": "Hyderabad-HQ waste and environmental services"
   },
   {
     "name": "RealPage",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Property-management software"
   },
   {
     "name": "Reckitt",
     "category": "GCC",
-    "sector": "Retail/Consumer"
+    "sector": "Retail/Consumer",
+    "description": "Hyderabad centre/office reported by Business of GCC directory"
   },
   {
     "name": "Red Hat",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Redwood Software",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Workload and finance automation software"
   },
   {
     "name": "Regeneron",
     "category": "GCC",
-    "sector": "Healthcare/Pharma"
+    "sector": "Healthcare/Pharma",
+    "description": "Hyderabad centre/office reported by Deccan Chronicle news report"
   },
   {
     "name": "RELX",
     "category": "GCC",
-    "sector": "Professional/Data"
+    "sector": "Professional/Data",
+    "description": "Hyderabad centre/office reported by Business of GCC directory"
   },
   {
     "name": "Renesas",
     "category": "GCC",
-    "sector": "Semiconductor"
+    "sector": "Semiconductor",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Rieter India",
     "category": "GCC",
-    "sector": "Engineering/Industrial"
+    "sector": "Engineering/Industrial",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Roche",
     "category": "GCC",
-    "sector": "Healthcare/Pharma"
+    "sector": "Healthcare/Pharma",
+    "description": "Global Analytics and Technology Center"
   },
   {
     "name": "Rocket Software",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Rockwell Automation",
     "category": "GCC",
-    "sector": "Engineering/Industrial"
+    "sector": "Engineering/Industrial",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Rolls-Royce Solutions India",
     "category": "GCC",
-    "sector": "Engineering/Industrial"
+    "sector": "Engineering/Industrial",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "RSM",
     "category": "MNC",
-    "sector": "Global MNC (Consulting/Audit)"
+    "sector": "Global MNC (Consulting/Audit)",
+    "description": "Audit and consulting delivery"
   },
   {
     "name": "RTI International",
     "category": "MNC",
-    "sector": "Global MNC (Research)"
+    "sector": "Global MNC (Research)",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Rubrik",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Saab",
     "category": "GCC",
-    "sector": "Engineering/Aerospace"
+    "sector": "Engineering/Aerospace",
+    "description": "IT engineering and development for the defence group"
   },
   {
     "name": "Safran",
     "category": "GCC",
-    "sector": "Engineering/Aerospace"
+    "sector": "Engineering/Aerospace",
+    "description": "Aircraft-engine MRO and engineering"
   },
   {
     "name": "Sai Life Sciences",
     "category": "MNC",
-    "sector": "Indian Large Corp (Pharma)"
+    "sector": "Indian Large Corp (Pharma)",
+    "description": "Hyderabad-HQ CDMO"
   },
   {
     "name": "Salesforce",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Core CRM, platform and Agentforce AI products"
   },
   {
     "name": "Samsung",
     "category": "GCC",
-    "sector": "Technology/Hardware"
+    "sector": "Technology/Hardware",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Sandoz",
     "category": "GCC",
-    "sector": "Healthcare/Pharma"
+    "sector": "Healthcare/Pharma",
+    "description": "Development, IT and business services hub"
   },
   {
     "name": "Sanofi",
     "category": "GCC",
-    "sector": "Healthcare/Pharma"
+    "sector": "Healthcare/Pharma",
+    "description": "Global Hub: R&D support, digital, medical, commercial"
   },
   {
     "name": "SAP",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Hyderabad global capability centre (set up 1998)"
   },
   {
     "name": "SAS",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Sattva Group",
     "category": "MNC",
-    "sector": "Indian Large Corp (Real Estate)"
+    "sector": "Indian Large Corp (Real Estate)",
+    "description": "Commercial and residential developer"
   },
   {
     "name": "Schneider Electric",
     "category": "GCC",
-    "sector": "Engineering/Industrial"
+    "sector": "Engineering/Industrial",
+    "description": "Energy-management and automation software"
   },
   {
     "name": "Schrödinger",
     "category": "GCC",
-    "sector": "Technology/Life Sciences Software"
+    "sector": "Technology/Life Sciences Software",
+    "description": "Computational drug discovery software"
   },
   {
     "name": "Seagate Technology",
     "category": "GCC",
-    "sector": "Technology/Hardware"
+    "sector": "Technology/Hardware",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "ServiceNow",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Now platform and GenAI; its 2nd largest R&D hub"
   },
   {
     "name": "SGS India",
     "category": "GCC",
-    "sector": "Professional Services"
+    "sector": "Professional Services",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Shell",
     "category": "GCC",
-    "sector": "Energy"
+    "sector": "Energy",
+    "description": "Technology and business services"
   },
   {
     "name": "Siemens",
     "category": "MNC",
-    "sector": "Global MNC (Industrial Tech)"
+    "sector": "Global MNC (Industrial Tech)",
+    "description": "Hyderabad centre/office reported by Listicle (7knetwork)"
   },
   {
     "name": "Signify",
     "category": "GCC",
-    "sector": "Engineering/Industrial"
+    "sector": "Engineering/Industrial",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Silicon Labs",
     "category": "GCC",
-    "sector": "Semiconductor"
+    "sector": "Semiconductor",
+    "description": "IoT wireless chips"
   },
   {
     "name": "Skillsoft",
     "category": "GCC",
-    "sector": "Technology/EdTech"
+    "sector": "Technology/EdTech",
+    "description": "Corporate learning platform"
   },
   {
     "name": "Sobha",
     "category": "MNC",
-    "sector": "Indian Large Corp (Real Estate)"
+    "sector": "Indian Large Corp (Real Estate)",
+    "description": "Developer with Hyderabad projects"
   },
   {
     "name": "Solenis",
     "category": "GCC",
-    "sector": "Engineering/Industrial"
+    "sector": "Engineering/Industrial",
+    "description": "Hyderabad global capability centre (set up 2016)"
   },
   {
     "name": "Sonata Software",
     "category": "MNC",
-    "sector": "Large Indian IT"
+    "sector": "Large Indian IT",
+    "description": "IT services"
   },
   {
     "name": "Sonatype",
     "category": "GCC",
-    "sector": "Technology/Security"
+    "sector": "Technology/Security",
+    "description": "Software supply-chain security"
   },
   {
     "name": "Sony",
     "category": "GCC",
-    "sector": "Technology/Hardware"
+    "sector": "Technology/Hardware",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Southwest Airlines",
     "category": "GCC",
-    "sector": "Retail/Consumer"
+    "sector": "Retail/Consumer",
+    "description": "First India GCC opened 2026"
   },
   {
     "name": "Splunk",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "SS&C Technologies",
     "category": "GCC",
-    "sector": "Technology/FinTech"
+    "sector": "Technology/FinTech",
+    "description": "Financial software and services"
   },
   {
     "name": "Startek",
     "category": "GCC",
-    "sector": "Professional Services"
+    "sector": "Professional Services",
+    "description": "Hyderabad global capability centre (set up 2018)"
   },
   {
     "name": "State Street",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Fund accounting, investment operations, technology"
   },
   {
     "name": "Stellantis",
     "category": "GCC",
-    "sector": "Engineering/Automotive"
+    "sector": "Engineering/Automotive",
+    "description": "ICT and vehicle-software engineering"
   },
   {
     "name": "Stryker India",
     "category": "GCC",
-    "sector": "Healthcare/MedTech"
+    "sector": "Healthcare/MedTech",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Sunshine Hospitals",
     "category": "MNC",
-    "sector": "Indian Large Corp (Healthcare)"
+    "sector": "Indian Large Corp (Healthcare)",
+    "description": "Hyderabad-based hospital chain"
   },
   {
     "name": "Sutherland",
     "category": "MNC",
-    "sector": "Global MNC (BPO/CX)"
+    "sector": "Global MNC (BPO/CX)",
+    "description": "Customer operations and process transformation"
   },
   {
     "name": "Swiss Re",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Underwriting support, analytics, technology"
   },
   {
     "name": "Synaptics",
     "category": "GCC",
-    "sector": "Semiconductor"
+    "sector": "Semiconductor",
+    "description": "IoT and human-interface chips"
   },
   {
     "name": "Synchronoss",
     "category": "MNC",
-    "sector": "Global MNC (IT Services)"
+    "sector": "Global MNC (IT Services)",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Synchrony",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Credit analytics, engineering, servicing"
   },
   {
     "name": "Synechron",
     "category": "MNC",
-    "sector": "Global MNC (IT Services)"
+    "sector": "Global MNC (IT Services)",
+    "description": "FinTech consulting and delivery"
   },
   {
     "name": "Syneos Health",
     "category": "GCC",
-    "sector": "Healthcare/Pharma"
+    "sector": "Healthcare/Pharma",
+    "description": "Hyderabad global capability centre (set up 2006)"
   },
   {
     "name": "Synopsys",
     "category": "GCC",
-    "sector": "Technology/Semiconductor"
+    "sector": "Technology/Semiconductor",
+    "description": "EDA software and semiconductor IP"
   },
   {
     "name": "T-Mobile (TMUS Global Solutions)",
     "category": "GCC",
-    "sector": "Telecom"
+    "sector": "Telecom",
+    "description": "First tech centre outside the US; hiring ~1,000"
   },
   {
     "name": "Tata Advanced Systems",
     "category": "MNC",
-    "sector": "Indian Large Corp (Aerospace)"
+    "sector": "Indian Large Corp (Aerospace)",
+    "description": "Aerospace and defence manufacturing, Hyderabad"
   },
   {
     "name": "Tata Consultancy Services (TCS)",
     "category": "MNC",
-    "sector": "Large Indian IT"
+    "sector": "Large Indian IT",
+    "description": "Huge Hyderabad base; mass fresher hiring"
   },
   {
     "name": "Tata Elxsi",
     "category": "MNC",
-    "sector": "Large Indian IT"
+    "sector": "Large Indian IT",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Tata Motors",
     "category": "MNC",
-    "sector": "Indian Large Corp (Automotive)"
+    "sector": "Indian Large Corp (Automotive)",
+    "description": "Hyderabad centre/office reported by Listicle (7knetwork)"
   },
   {
     "name": "Tavant",
     "category": "MNC",
-    "sector": "Global MNC (IT Services)"
+    "sector": "Global MNC (IT Services)",
+    "description": "Digital lending and product engineering"
   },
   {
     "name": "TE Connectivity",
     "category": "GCC",
-    "sector": "Engineering/Industrial"
+    "sector": "Engineering/Industrial",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "TeamLease",
     "category": "MNC",
-    "sector": "Indian Large Corp (Staffing)"
+    "sector": "Indian Large Corp (Staffing)",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Tech Mahindra",
     "category": "MNC",
-    "sector": "Large Indian IT"
+    "sector": "Large Indian IT",
+    "description": "Big Hyderabad delivery; fresher drives"
   },
   {
     "name": "TechnipFMC",
     "category": "GCC",
-    "sector": "Energy"
+    "sector": "Energy",
+    "description": "Engineering and technology centre; adding ~4,500 jobs"
   },
   {
     "name": "Tektronix",
     "category": "GCC",
-    "sector": "Engineering/Industrial"
+    "sector": "Engineering/Industrial",
+    "description": "Hyderabad global capability centre (set up 2012)"
   },
   {
     "name": "Teleperformance",
     "category": "MNC",
-    "sector": "Global MNC (BPO/CX)"
+    "sector": "Global MNC (BPO/CX)",
+    "description": "Customer experience operations"
   },
   {
     "name": "Telstra",
     "category": "GCC",
-    "sector": "Telecom"
+    "sector": "Telecom",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Temenos (Kony)",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Teradata",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Cloud analytics platform products"
   },
   {
     "name": "Texas Instruments",
     "category": "GCC",
-    "sector": "Semiconductor"
+    "sector": "Semiconductor",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "The Hartford",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Hyderabad centre/office reported by Business Standard, 2026"
   },
   {
     "name": "The World Bank Group",
     "category": "GCC",
-    "sector": "Professional Services"
+    "sector": "Professional Services",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Thermo Fisher Scientific",
     "category": "GCC",
-    "sector": "Healthcare/Pharma"
+    "sector": "Healthcare/Pharma",
+    "description": "R&D, digital and global business services"
   },
   {
     "name": "Thomson Reuters",
     "category": "GCC",
-    "sector": "Professional/Data"
+    "sector": "Professional/Data",
+    "description": "Legal, tax and news platforms"
   },
   {
     "name": "Thoughtworks",
     "category": "MNC",
-    "sector": "Global MNC (IT Consulting)"
+    "sector": "Global MNC (IT Consulting)",
+    "description": "Software consulting"
   },
   {
     "name": "TIAA",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "TIBCO Software",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Tide",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "UK business-banking fintech"
   },
   {
     "name": "Tiffany & Co.",
     "category": "GCC",
-    "sector": "Retail/Consumer"
+    "sector": "Retail/Consumer",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "TJX",
     "category": "GCC",
-    "sector": "Retail/Consumer"
+    "sector": "Retail/Consumer",
+    "description": "Retail technology and global business services"
   },
   {
     "name": "Tokyo Electron",
     "category": "GCC",
-    "sector": "Semiconductor"
+    "sector": "Semiconductor",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Trane Technologies",
     "category": "GCC",
-    "sector": "Engineering/Industrial"
+    "sector": "Engineering/Industrial",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "TransUnion",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Credit data and analytics platforms"
   },
   {
     "name": "Trellix (McAfee Enterprise)",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Trimont",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "TriNet",
     "category": "GCC",
-    "sector": "Professional Services"
+    "sector": "Professional Services",
+    "description": "Hyderabad global capability centre (set up 2024)"
   },
   {
     "name": "Truist",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Truveta",
     "category": "GCC",
-    "sector": "Healthcare/IT"
+    "sector": "Healthcare/IT",
+    "description": "Hyderabad global capability centre (set up 2026)"
   },
   {
     "name": "Tyco International",
     "category": "GCC",
-    "sector": "Engineering/Industrial"
+    "sector": "Engineering/Industrial",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "TÜV SÜD",
     "category": "GCC",
-    "sector": "Professional Services"
+    "sector": "Professional Services",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Uber",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Rider, payments and safety engineering"
   },
   {
     "name": "UBS",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Business Solutions Centre: tech, ops, research, risk"
   },
   {
     "name": "UKG (Ultimate Kronos Group)",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Unisys",
     "category": "MNC",
-    "sector": "Global MNC (IT Services)"
+    "sector": "Global MNC (IT Services)",
+    "description": "Cloud and digital workplace services"
   },
   {
     "name": "United Rentals",
     "category": "GCC",
-    "sector": "Engineering/Industrial"
+    "sector": "Engineering/Industrial",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "United Technologies Corporation (UTC)",
     "category": "GCC",
-    "sector": "Engineering/Aerospace"
+    "sector": "Engineering/Aerospace",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "UnitedHealth Group",
     "category": "GCC",
-    "sector": "Healthcare/IT"
+    "sector": "Healthcare/IT",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "UPS",
     "category": "GCC",
-    "sector": "Logistics"
+    "sector": "Logistics",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "UST",
     "category": "MNC",
-    "sector": "Global MNC (IT Services)"
+    "sector": "Global MNC (IT Services)",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "ValueLabs",
     "category": "MNC",
-    "sector": "Large Indian IT"
+    "sector": "Large Indian IT",
+    "description": "Hyderabad-headquartered IT services"
   },
   {
     "name": "ValueMomentum",
     "category": "MNC",
-    "sector": "Large Indian IT"
+    "sector": "Large Indian IT",
+    "description": "Hyderabad-headquartered insurance IT services"
   },
   {
     "name": "Vanguard",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "First India GCC, opened Nov 2025; scaling to ~2,300"
   },
   {
     "name": "Veeam",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Veradigm",
     "category": "GCC",
-    "sector": "Healthcare/IT"
+    "sector": "Healthcare/IT",
+    "description": "Healthcare IT"
   },
   {
     "name": "Verisk",
     "category": "GCC",
-    "sector": "Professional/Data"
+    "sector": "Professional/Data",
+    "description": "Insurance analytics"
   },
   {
     "name": "Verizon",
     "category": "GCC",
-    "sector": "Telecom"
+    "sector": "Telecom",
+    "description": "Network software and IT systems"
   },
   {
     "name": "Viatris",
     "category": "MNC",
-    "sector": "Global MNC (Pharma)"
+    "sector": "Global MNC (Pharma)",
+    "description": "Pharma R&D and manufacturing"
   },
   {
     "name": "Vijaya Diagnostic Centre",
     "category": "MNC",
-    "sector": "Indian Large Corp (Healthcare)"
+    "sector": "Indian Large Corp (Healthcare)",
+    "description": "Hyderabad-HQ diagnostics chain"
   },
   {
     "name": "Vimta Labs",
     "category": "MNC",
-    "sector": "Indian Large Corp (Pharma)"
+    "sector": "Indian Large Corp (Pharma)",
+    "description": "Hyderabad-HQ testing and research labs"
   },
   {
     "name": "Virtusa",
     "category": "MNC",
-    "sector": "Large Indian IT"
+    "sector": "Large Indian IT",
+    "description": "Digital engineering"
   },
   {
     "name": "Visa",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "VMware by Broadcom",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Volvo Group",
     "category": "GCC",
-    "sector": "Engineering/Automotive"
+    "sector": "Engineering/Automotive",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Voya India",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Retirement/insurance technology and operations"
   },
   {
     "name": "Wabtec",
     "category": "GCC",
-    "sector": "Engineering/Industrial"
+    "sector": "Engineering/Industrial",
+    "description": "Hyderabad global capability centre (set up 2019)"
   },
   {
     "name": "Walmart Global Tech India",
     "category": "GCC",
-    "sector": "Retail/Consumer"
+    "sector": "Retail/Consumer",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Warner Bros. Discovery",
     "category": "GCC",
-    "sector": "Media/Telecom"
+    "sector": "Media/Telecom",
+    "description": "Streaming technology and operations"
   },
   {
     "name": "Wells Fargo",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Technology, operations and risk (Wells Fargo International Solutions)"
   },
   {
     "name": "Western Digital",
     "category": "GCC",
-    "sector": "Technology/Hardware"
+    "sector": "Technology/Hardware",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Western Union",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "AI-led GCC set up with HCLTech (Jan 2026)"
   },
   {
     "name": "WeWork",
     "category": "GCC",
-    "sector": "Professional/Real Estate"
+    "sector": "Professional/Real Estate",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Whirlpool India",
     "category": "GCC",
-    "sector": "Engineering/Industrial"
+    "sector": "Engineering/Industrial",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Wipro",
     "category": "MNC",
-    "sector": "Large Indian IT"
+    "sector": "Large Indian IT",
+    "description": "Mass fresher hiring (Elite/Turbo)"
   },
   {
     "name": "Workday",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Xebia",
     "category": "MNC",
-    "sector": "Global MNC (IT Services)"
+    "sector": "Global MNC (IT Services)",
+    "description": "Software consultancy"
   },
   {
     "name": "Xerox",
     "category": "GCC",
-    "sector": "Technology/Hardware"
+    "sector": "Technology/Hardware",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Xiaomi",
     "category": "GCC",
-    "sector": "Technology/Hardware"
+    "sector": "Technology/Hardware",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Xylem Inc.",
     "category": "GCC",
-    "sector": "Engineering/Industrial"
+    "sector": "Engineering/Industrial",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "YASH Technologies",
     "category": "MNC",
-    "sector": "Large Indian IT"
+    "sector": "Large Indian IT",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Yashoda Hospitals",
     "category": "MNC",
-    "sector": "Indian Large Corp (Healthcare)"
+    "sector": "Indian Large Corp (Healthcare)",
+    "description": "Hyderabad-HQ hospital chain"
   },
   {
     "name": "Yext",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Listings / search platform"
   },
   {
     "name": "Yokogawa India",
     "category": "GCC",
-    "sector": "Engineering/Industrial"
+    "sector": "Engineering/Industrial",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Zebra Technologies",
     "category": "GCC",
-    "sector": "Technology/Hardware"
+    "sector": "Technology/Hardware",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Zelis",
     "category": "GCC",
-    "sector": "Healthcare FinTech"
+    "sector": "Healthcare FinTech",
+    "description": "Healthcare payments technology"
   },
   {
     "name": "Zensar",
     "category": "MNC",
-    "sector": "Large Indian IT"
+    "sector": "Large Indian IT",
+    "description": "IT services"
   },
   {
     "name": "ZF LIFETEC",
     "category": "GCC",
-    "sector": "Engineering/Automotive"
+    "sector": "Engineering/Automotive",
+    "description": "Safety-systems engineering"
   },
   {
     "name": "Zoetis",
     "category": "GCC",
-    "sector": "Healthcare/Pharma"
+    "sector": "Healthcare/Pharma",
+    "description": "Animal-health capability centre (tech, finance, ops)"
   },
   {
     "name": "Zoom Video Communications",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Hyderabad innovation centre"
   },
   {
     "name": "Zscaler",
     "category": "GCC",
-    "sector": "Technology/Product"
+    "sector": "Technology/Product",
+    "description": "Added from freshers PDF directory; Hyderabad presence not verified"
   },
   {
     "name": "Zurich Insurance",
     "category": "GCC",
-    "sector": "BFSI"
+    "sector": "BFSI",
+    "description": "Hyderabad centre/office reported by Analytics India Magazine, May 2026 (GCC launched Apr 2026)"
   }
 ]

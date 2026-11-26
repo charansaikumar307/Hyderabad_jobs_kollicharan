@@ -1,0 +1,2707 @@
+[
+  {
+    "name": "24[7].ai",
+    "category": "GCC",
+    "sector": "Technology/AI"
+  },
+  {
+    "name": "ABB",
+    "category": "GCC",
+    "sector": "Engineering/Industrial"
+  },
+  {
+    "name": "Abbott",
+    "category": "GCC",
+    "sector": "Healthcare/MedTech"
+  },
+  {
+    "name": "ABC Fitness",
+    "category": "GCC",
+    "sector": "Professional Services"
+  },
+  {
+    "name": "Accenture",
+    "category": "MNC",
+    "sector": "Global MNC (IT/Consulting)"
+  },
+  {
+    "name": "Access Healthcare",
+    "category": "MNC",
+    "sector": "Global MNC (BPO/CX)"
+  },
+  {
+    "name": "Accordion",
+    "category": "MNC",
+    "sector": "Global MNC (Consulting)"
+  },
+  {
+    "name": "Acumatica",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Adidas",
+    "category": "GCC",
+    "sector": "Retail/Consumer"
+  },
+  {
+    "name": "Adobe",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "ADP",
+    "category": "GCC",
+    "sector": "Professional/HR-Tech"
+  },
+  {
+    "name": "Agilent Technologies",
+    "category": "GCC",
+    "sector": "Healthcare/Pharma"
+  },
+  {
+    "name": "AIA Group",
+    "category": "GCC",
+    "sector": "BFSI/Insurance"
+  },
+  {
+    "name": "AIG Hospitals",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Healthcare)"
+  },
+  {
+    "name": "Airbus",
+    "category": "GCC",
+    "sector": "Engineering/Aerospace"
+  },
+  {
+    "name": "Akamai Technologies",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Al Ansari Financial Services",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "Alcatel-Lucent Enterprise",
+    "category": "GCC",
+    "sector": "Telecom"
+  },
+  {
+    "name": "Align Technology",
+    "category": "GCC",
+    "sector": "Healthcare/MedTech"
+  },
+  {
+    "name": "Alstom",
+    "category": "GCC",
+    "sector": "Engineering/Industrial"
+  },
+  {
+    "name": "Alter Domus",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "Alvarez & Marsal",
+    "category": "GCC",
+    "sector": "Professional Services"
+  },
+  {
+    "name": "Amazon",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "AMD",
+    "category": "GCC",
+    "sector": "Semiconductor"
+  },
+  {
+    "name": "Amdocs",
+    "category": "GCC",
+    "sector": "Engineering/Industrial"
+  },
+  {
+    "name": "American Airlines",
+    "category": "GCC",
+    "sector": "Retail/Consumer"
+  },
+  {
+    "name": "American Express",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "Ameriprise Financial",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "Amgen",
+    "category": "GCC",
+    "sector": "Healthcare/Pharma"
+  },
+  {
+    "name": "Analog Devices",
+    "category": "GCC",
+    "sector": "Semiconductor"
+  },
+  {
+    "name": "Anarock",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Real Estate Services)"
+  },
+  {
+    "name": "Anheuser-Busch InBev",
+    "category": "GCC",
+    "sector": "Retail/Consumer"
+  },
+  {
+    "name": "Aon",
+    "category": "GCC",
+    "sector": "Professional/Consulting"
+  },
+  {
+    "name": "Aparna Constructions",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Real Estate)"
+  },
+  {
+    "name": "Apollo Hospitals",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Healthcare)"
+  },
+  {
+    "name": "Apple",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Applied Materials",
+    "category": "GCC",
+    "sector": "Semiconductor"
+  },
+  {
+    "name": "Aragen Life Sciences",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Pharma)"
+  },
+  {
+    "name": "ArcelorMittal (AMGBT)",
+    "category": "GCC",
+    "sector": "Energy/Industrial"
+  },
+  {
+    "name": "Arcesium",
+    "category": "GCC",
+    "sector": "Technology/FinTech"
+  },
+  {
+    "name": "Archer Daniels Midland (ADM)",
+    "category": "GCC",
+    "sector": "Retail/Consumer"
+  },
+  {
+    "name": "Arista Networks",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "ARM Holdings",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Artech",
+    "category": "MNC",
+    "sector": "Global MNC (IT Services)"
+  },
+  {
+    "name": "Ashland",
+    "category": "GCC",
+    "sector": "Engineering/Industrial"
+  },
+  {
+    "name": "ASML",
+    "category": "GCC",
+    "sector": "Semiconductor"
+  },
+  {
+    "name": "Aspen Technology",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "AstraZeneca",
+    "category": "GCC",
+    "sector": "Healthcare/Pharma"
+  },
+  {
+    "name": "AT&T",
+    "category": "GCC",
+    "sector": "Telecom"
+  },
+  {
+    "name": "Atlassian",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Atos",
+    "category": "MNC",
+    "sector": "Global MNC (IT Services)"
+  },
+  {
+    "name": "Aurobindo Pharma",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Pharma)"
+  },
+  {
+    "name": "Autodesk",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Axtria",
+    "category": "GCC",
+    "sector": "Technology/Analytics"
+  },
+  {
+    "name": "Azurity Pharmaceuticals",
+    "category": "GCC",
+    "sector": "Healthcare/Pharma"
+  },
+  {
+    "name": "Bain & Company",
+    "category": "MNC",
+    "sector": "Global MNC (Consulting)"
+  },
+  {
+    "name": "Baker Hughes",
+    "category": "GCC",
+    "sector": "Engineering/Industrial"
+  },
+  {
+    "name": "Bank of America",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "Barry Callebaut",
+    "category": "GCC",
+    "sector": "Retail/Consumer"
+  },
+  {
+    "name": "BASF",
+    "category": "GCC",
+    "sector": "Energy/Industrial"
+  },
+  {
+    "name": "Bayer",
+    "category": "GCC",
+    "sector": "Healthcare/Pharma"
+  },
+  {
+    "name": "BDO India",
+    "category": "MNC",
+    "sector": "Global MNC (Consulting/Audit)"
+  },
+  {
+    "name": "Becton Dickinson (BD)",
+    "category": "GCC",
+    "sector": "Healthcare/MedTech"
+  },
+  {
+    "name": "BEL (Hyderabad unit)",
+    "category": "MNC",
+    "sector": "PSU / Defence"
+  },
+  {
+    "name": "Bharat Biotech",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Pharma)"
+  },
+  {
+    "name": "Bharat Dynamics (BDL)",
+    "category": "MNC",
+    "sector": "PSU / Defence"
+  },
+  {
+    "name": "BHEL",
+    "category": "MNC",
+    "sector": "PSU / Defence"
+  },
+  {
+    "name": "Billtrust",
+    "category": "GCC",
+    "sector": "BFSI/FinTech"
+  },
+  {
+    "name": "Biological E",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Pharma)"
+  },
+  {
+    "name": "Birlasoft",
+    "category": "MNC",
+    "sector": "Large Indian IT"
+  },
+  {
+    "name": "Blue Yonder",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Blupace Tech",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "BMC Software",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Boeing",
+    "category": "GCC",
+    "sector": "Engineering/Aerospace"
+  },
+  {
+    "name": "Bombardier",
+    "category": "GCC",
+    "sector": "Engineering/Aerospace"
+  },
+  {
+    "name": "Booking Holdings",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Booz Allen Hamilton",
+    "category": "GCC",
+    "sector": "Professional Services"
+  },
+  {
+    "name": "Bosch Global Software Technologies",
+    "category": "GCC",
+    "sector": "Engineering/Automotive"
+  },
+  {
+    "name": "Boston Consulting Group (BCG)",
+    "category": "MNC",
+    "sector": "Global MNC (Consulting)"
+  },
+  {
+    "name": "Bridgestone India Technology Centre",
+    "category": "GCC",
+    "sector": "Engineering/Automotive"
+  },
+  {
+    "name": "Brigade Group",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Real Estate)"
+  },
+  {
+    "name": "Bristol Myers Squibb",
+    "category": "GCC",
+    "sector": "Healthcare/Pharma"
+  },
+  {
+    "name": "Broadridge",
+    "category": "GCC",
+    "sector": "Technology/FinTech"
+  },
+  {
+    "name": "Callaway Golf",
+    "category": "GCC",
+    "sector": "Retail/Consumer"
+  },
+  {
+    "name": "Capco",
+    "category": "GCC",
+    "sector": "BFSI/Consulting"
+  },
+  {
+    "name": "Capgemini",
+    "category": "MNC",
+    "sector": "Global MNC (IT Services)"
+  },
+  {
+    "name": "CapitaLand",
+    "category": "GCC",
+    "sector": "Professional/Real Estate"
+  },
+  {
+    "name": "CARE Hospitals",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Healthcare)"
+  },
+  {
+    "name": "Carelon Global Solutions India",
+    "category": "GCC",
+    "sector": "Healthcare/IT"
+  },
+  {
+    "name": "Cargill",
+    "category": "GCC",
+    "sector": "Retail/Consumer"
+  },
+  {
+    "name": "Carrier",
+    "category": "GCC",
+    "sector": "Engineering/Industrial"
+  },
+  {
+    "name": "Caterpillar",
+    "category": "GCC",
+    "sector": "Engineering/Industrial"
+  },
+  {
+    "name": "CBRE",
+    "category": "MNC",
+    "sector": "Global MNC (Real Estate Services)"
+  },
+  {
+    "name": "CDK Global",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "CGI",
+    "category": "MNC",
+    "sector": "Global MNC (IT Services)"
+  },
+  {
+    "name": "Charles Schwab",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "Chubb",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "CIBC",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "Cisco Systems",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Citco",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "Citigroup (Citi)",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "CitiusTech",
+    "category": "GCC",
+    "sector": "Healthcare/IT"
+  },
+  {
+    "name": "Citizens Financial Group",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "Citrin Cooperman",
+    "category": "GCC",
+    "sector": "Professional Services"
+  },
+  {
+    "name": "Clean Harbors",
+    "category": "GCC",
+    "sector": "Engineering/Industrial"
+  },
+  {
+    "name": "Coca-Cola",
+    "category": "MNC",
+    "sector": "Global MNC (FMCG)"
+  },
+  {
+    "name": "Codec",
+    "category": "GCC",
+    "sector": "Professional Services"
+  },
+  {
+    "name": "Coforge",
+    "category": "MNC",
+    "sector": "Large Indian IT"
+  },
+  {
+    "name": "Cognizant",
+    "category": "MNC",
+    "sector": "Large Indian IT"
+  },
+  {
+    "name": "Cohance Lifesciences (Suven)",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Pharma)"
+  },
+  {
+    "name": "Cohere Health",
+    "category": "GCC",
+    "sector": "Healthcare/IT"
+  },
+  {
+    "name": "Colgate-Palmolive",
+    "category": "GCC",
+    "sector": "Retail/Consumer"
+  },
+  {
+    "name": "Colliers India",
+    "category": "MNC",
+    "sector": "Global MNC (Real Estate Services)"
+  },
+  {
+    "name": "Collins Aerospace",
+    "category": "GCC",
+    "sector": "Engineering/Aerospace"
+  },
+  {
+    "name": "Comcast",
+    "category": "GCC",
+    "sector": "Media/Telecom"
+  },
+  {
+    "name": "CommScope",
+    "category": "GCC",
+    "sector": "Telecom"
+  },
+  {
+    "name": "Commvault",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Computacenter",
+    "category": "MNC",
+    "sector": "Global MNC (IT Services)"
+  },
+  {
+    "name": "Concentrix",
+    "category": "MNC",
+    "sector": "Global MNC (BPO/CX)"
+  },
+  {
+    "name": "Conduent",
+    "category": "MNC",
+    "sector": "Global MNC (BPO)"
+  },
+  {
+    "name": "Continental Hospitals",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Healthcare)"
+  },
+  {
+    "name": "Copart",
+    "category": "GCC",
+    "sector": "Engineering/Industrial"
+  },
+  {
+    "name": "Cornerstone OnDemand",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Costco",
+    "category": "GCC",
+    "sector": "Retail/Consumer"
+  },
+  {
+    "name": "Cotiviti",
+    "category": "GCC",
+    "sector": "Healthcare/IT"
+  },
+  {
+    "name": "Crowe",
+    "category": "GCC",
+    "sector": "Professional Services"
+  },
+  {
+    "name": "CSG International",
+    "category": "GCC",
+    "sector": "Telecom"
+  },
+  {
+    "name": "Cubic",
+    "category": "GCC",
+    "sector": "Engineering/Aerospace"
+  },
+  {
+    "name": "Cummins",
+    "category": "GCC",
+    "sector": "Engineering/Industrial"
+  },
+  {
+    "name": "Curia",
+    "category": "GCC",
+    "sector": "Healthcare/Pharma"
+  },
+  {
+    "name": "Cushman & Wakefield",
+    "category": "MNC",
+    "sector": "Global MNC (Real Estate Services)"
+  },
+  {
+    "name": "CVS Health",
+    "category": "GCC",
+    "sector": "Healthcare/IT"
+  },
+  {
+    "name": "Cyara",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Cyient",
+    "category": "MNC",
+    "sector": "Large Indian IT"
+  },
+  {
+    "name": "D. E. Shaw",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "Dai-ichi Life",
+    "category": "GCC",
+    "sector": "BFSI/Insurance"
+  },
+  {
+    "name": "Danaher",
+    "category": "GCC",
+    "sector": "Engineering/Industrial"
+  },
+  {
+    "name": "Datadog",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "DAZN",
+    "category": "GCC",
+    "sector": "Media/Telecom"
+  },
+  {
+    "name": "DBS Bank",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "Deliveroo",
+    "category": "GCC",
+    "sector": "Retail/Consumer"
+  },
+  {
+    "name": "Dell Technologies",
+    "category": "GCC",
+    "sector": "Technology/Hardware"
+  },
+  {
+    "name": "Deloitte (USI)",
+    "category": "MNC",
+    "sector": "Global MNC (Consulting/Audit)"
+  },
+  {
+    "name": "Deutsche Bank",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "Deutsche Börse",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "DFE Pharma",
+    "category": "GCC",
+    "sector": "Healthcare/Pharma"
+  },
+  {
+    "name": "Diebold Nixdorf",
+    "category": "GCC",
+    "sector": "Engineering/Industrial"
+  },
+  {
+    "name": "DigitalOcean",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Diligent",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Divi's Laboratories",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Pharma)"
+  },
+  {
+    "name": "Dr. Reddy's Laboratories",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Pharma)"
+  },
+  {
+    "name": "dsm-firmenich",
+    "category": "GCC",
+    "sector": "Retail/Consumer"
+  },
+  {
+    "name": "Dun & Bradstreet",
+    "category": "GCC",
+    "sector": "Professional/Data"
+  },
+  {
+    "name": "DuPont",
+    "category": "GCC",
+    "sector": "Engineering/Industrial"
+  },
+  {
+    "name": "DXC Technology",
+    "category": "MNC",
+    "sector": "Global MNC (IT Services)"
+  },
+  {
+    "name": "e2open",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Eaton",
+    "category": "GCC",
+    "sector": "Engineering/Industrial"
+  },
+  {
+    "name": "EchoStar",
+    "category": "GCC",
+    "sector": "Telecom"
+  },
+  {
+    "name": "ECIL",
+    "category": "MNC",
+    "sector": "PSU / Defence"
+  },
+  {
+    "name": "EdgeVerve",
+    "category": "MNC",
+    "sector": "Large Indian IT"
+  },
+  {
+    "name": "EisnerAmper",
+    "category": "GCC",
+    "sector": "Professional Services"
+  },
+  {
+    "name": "Electronic Arts",
+    "category": "GCC",
+    "sector": "Media/Gaming"
+  },
+  {
+    "name": "Eli Lilly",
+    "category": "GCC",
+    "sector": "Healthcare/Pharma"
+  },
+  {
+    "name": "Emerson",
+    "category": "GCC",
+    "sector": "Engineering/Industrial"
+  },
+  {
+    "name": "Entain",
+    "category": "GCC",
+    "sector": "Media/Gaming"
+  },
+  {
+    "name": "EPAM Systems",
+    "category": "MNC",
+    "sector": "Global MNC (IT Services)"
+  },
+  {
+    "name": "Epiq",
+    "category": "GCC",
+    "sector": "Professional Services"
+  },
+  {
+    "name": "Ericsson",
+    "category": "GCC",
+    "sector": "Telecom"
+  },
+  {
+    "name": "ESDS Software Solution",
+    "category": "MNC",
+    "sector": "Large Indian IT"
+  },
+  {
+    "name": "Evalueserve",
+    "category": "MNC",
+    "sector": "Global MNC (Research)"
+  },
+  {
+    "name": "Everbridge",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Evernorth Health Services",
+    "category": "GCC",
+    "sector": "Healthcare/IT"
+  },
+  {
+    "name": "Experian",
+    "category": "GCC",
+    "sector": "BFSI/Data"
+  },
+  {
+    "name": "ExxonMobil",
+    "category": "GCC",
+    "sector": "Energy"
+  },
+  {
+    "name": "EY GDS (Ernst & Young)",
+    "category": "MNC",
+    "sector": "Global MNC (Consulting/Audit)"
+  },
+  {
+    "name": "F5 Networks",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "FactSet",
+    "category": "GCC",
+    "sector": "BFSI/Data"
+  },
+  {
+    "name": "Fanatics",
+    "category": "GCC",
+    "sector": "Retail/Consumer"
+  },
+  {
+    "name": "FedEx",
+    "category": "GCC",
+    "sector": "Logistics"
+  },
+  {
+    "name": "Ficosa",
+    "category": "GCC",
+    "sector": "Engineering/Automotive"
+  },
+  {
+    "name": "First American",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "Firstsource",
+    "category": "MNC",
+    "sector": "Global MNC (BPO/CX)"
+  },
+  {
+    "name": "FIS",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "Fiserv",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "Ford India",
+    "category": "GCC",
+    "sector": "Engineering/Automotive"
+  },
+  {
+    "name": "Forvis Mazars",
+    "category": "GCC",
+    "sector": "Professional Services"
+  },
+  {
+    "name": "Foundever (Sitel)",
+    "category": "GCC",
+    "sector": "Professional Services"
+  },
+  {
+    "name": "Fractal Analytics",
+    "category": "MNC",
+    "sector": "Large Indian IT"
+  },
+  {
+    "name": "Franklin Templeton",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "Fresenius Medical Care",
+    "category": "GCC",
+    "sector": "Healthcare/MedTech"
+  },
+  {
+    "name": "Fujitsu",
+    "category": "MNC",
+    "sector": "Global MNC (IT Services)"
+  },
+  {
+    "name": "G4S",
+    "category": "GCC",
+    "sector": "Professional Services"
+  },
+  {
+    "name": "Gallagher",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "Garmin",
+    "category": "GCC",
+    "sector": "Technology/Hardware"
+  },
+  {
+    "name": "Gartner",
+    "category": "MNC",
+    "sector": "Global MNC (Research)"
+  },
+  {
+    "name": "GE Healthcare",
+    "category": "GCC",
+    "sector": "Healthcare/MedTech"
+  },
+  {
+    "name": "General Electric (GE)",
+    "category": "GCC",
+    "sector": "Engineering/Industrial"
+  },
+  {
+    "name": "Genpact",
+    "category": "MNC",
+    "sector": "Large Indian IT"
+  },
+  {
+    "name": "GHX",
+    "category": "GCC",
+    "sector": "Technology/Healthcare Supply Chain"
+  },
+  {
+    "name": "Gilead Sciences",
+    "category": "GCC",
+    "sector": "Healthcare/Pharma"
+  },
+  {
+    "name": "Gland Pharma",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Pharma)"
+  },
+  {
+    "name": "GlobalFoundries",
+    "category": "GCC",
+    "sector": "Semiconductor"
+  },
+  {
+    "name": "GlobalLogic",
+    "category": "MNC",
+    "sector": "Global MNC (IT Services)"
+  },
+  {
+    "name": "Globant",
+    "category": "GCC",
+    "sector": "Technology/IT Services"
+  },
+  {
+    "name": "GMR Group",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Infra)"
+  },
+  {
+    "name": "Goldman Sachs",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "Goodyear",
+    "category": "GCC",
+    "sector": "Engineering/Automotive"
+  },
+  {
+    "name": "Google",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Grant Thornton Bharat",
+    "category": "MNC",
+    "sector": "Global MNC (Consulting/Audit)"
+  },
+  {
+    "name": "Granules India",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Pharma)"
+  },
+  {
+    "name": "Greenko",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Energy)"
+  },
+  {
+    "name": "Grid Dynamics",
+    "category": "MNC",
+    "sector": "Global MNC (IT Services)"
+  },
+  {
+    "name": "GSK Pharmaceuticals",
+    "category": "GCC",
+    "sector": "Healthcare/Pharma"
+  },
+  {
+    "name": "Guidewire",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Harman International India",
+    "category": "GCC",
+    "sector": "Technology/Hardware"
+  },
+  {
+    "name": "HCA Healthcare",
+    "category": "GCC",
+    "sector": "Healthcare/IT"
+  },
+  {
+    "name": "HCLTech",
+    "category": "MNC",
+    "sector": "Large Indian IT"
+  },
+  {
+    "name": "HEINEKEN",
+    "category": "GCC",
+    "sector": "Retail/Consumer"
+  },
+  {
+    "name": "Hetero Drugs",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Pharma)"
+  },
+  {
+    "name": "Hewlett Packard Enterprise",
+    "category": "GCC",
+    "sector": "Technology/Hardware"
+  },
+  {
+    "name": "Hexagon",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Hinduja Tech",
+    "category": "MNC",
+    "sector": "Large Indian IT"
+  },
+  {
+    "name": "Hitachi Energy India",
+    "category": "GCC",
+    "sector": "Engineering/Industrial"
+  },
+  {
+    "name": "Hitachi Solutions",
+    "category": "MNC",
+    "sector": "Global MNC (IT Services)"
+  },
+  {
+    "name": "Hitachi Vantara",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Hogan Lovells",
+    "category": "GCC",
+    "sector": "Professional Services"
+  },
+  {
+    "name": "Honeywell",
+    "category": "GCC",
+    "sector": "Engineering/Industrial"
+  },
+  {
+    "name": "HSBC",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "Huron",
+    "category": "MNC",
+    "sector": "Global MNC (Consulting)"
+  },
+  {
+    "name": "Hyundai Mobis",
+    "category": "GCC",
+    "sector": "Engineering/Automotive"
+  },
+  {
+    "name": "Hyundai Motor India Engineering",
+    "category": "GCC",
+    "sector": "Engineering/Automotive"
+  },
+  {
+    "name": "IBM",
+    "category": "MNC",
+    "sector": "Global MNC (IT/Product)"
+  },
+  {
+    "name": "ICE (Intercontinental Exchange)",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "IDEMIA",
+    "category": "GCC",
+    "sector": "Technology/Security"
+  },
+  {
+    "name": "IKEA",
+    "category": "GCC",
+    "sector": "Retail/Consumer"
+  },
+  {
+    "name": "Indeed",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Indian Immunologicals",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Pharma)"
+  },
+  {
+    "name": "Indian Motorcycle Company",
+    "category": "GCC",
+    "sector": "Engineering/Automotive"
+  },
+  {
+    "name": "Indian School of Business (ISB)",
+    "category": "MNC",
+    "sector": "Education"
+  },
+  {
+    "name": "Inditex (Zara India)",
+    "category": "GCC",
+    "sector": "Retail/Consumer"
+  },
+  {
+    "name": "Infor",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Informatica",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Infosys",
+    "category": "MNC",
+    "sector": "Large Indian IT"
+  },
+  {
+    "name": "ING",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "Ingram Micro",
+    "category": "GCC",
+    "sector": "Technology/Hardware"
+  },
+  {
+    "name": "Innova Solutions",
+    "category": "MNC",
+    "sector": "Global MNC (IT Services)"
+  },
+  {
+    "name": "Insud Pharma",
+    "category": "GCC",
+    "sector": "Healthcare/Pharma"
+  },
+  {
+    "name": "Intel",
+    "category": "GCC",
+    "sector": "Semiconductor"
+  },
+  {
+    "name": "InterSystems",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Intuit",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Invesco",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "IQVIA",
+    "category": "MNC",
+    "sector": "Global MNC (Healthcare Services)"
+  },
+  {
+    "name": "ITC Infotech",
+    "category": "MNC",
+    "sector": "Large Indian IT"
+  },
+  {
+    "name": "Jabil Circuit",
+    "category": "GCC",
+    "sector": "Engineering/Industrial"
+  },
+  {
+    "name": "Jarsh Safety",
+    "category": "GCC",
+    "sector": "Engineering/Industrial"
+  },
+  {
+    "name": "Jio Platforms",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Conglomerate/Telecom)"
+  },
+  {
+    "name": "JLL",
+    "category": "GCC",
+    "sector": "Professional/Real Estate"
+  },
+  {
+    "name": "Johnson & Johnson",
+    "category": "GCC",
+    "sector": "Healthcare/Pharma"
+  },
+  {
+    "name": "Johnson Controls",
+    "category": "GCC",
+    "sector": "Engineering/Industrial"
+  },
+  {
+    "name": "Jotun India",
+    "category": "GCC",
+    "sector": "Engineering/Industrial"
+  },
+  {
+    "name": "JPMorganChase",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "Juniper Networks",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Kantar",
+    "category": "MNC",
+    "sector": "Global MNC (Research)"
+  },
+  {
+    "name": "Kenvue",
+    "category": "GCC",
+    "sector": "Retail/Consumer"
+  },
+  {
+    "name": "KFin Technologies",
+    "category": "MNC",
+    "sector": "Indian Large Corp (FinServ)"
+  },
+  {
+    "name": "KIMS Hospitals",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Healthcare)"
+  },
+  {
+    "name": "KLA-Tencor",
+    "category": "GCC",
+    "sector": "Semiconductor"
+  },
+  {
+    "name": "Knight Frank India",
+    "category": "MNC",
+    "sector": "Global MNC (Real Estate Services)"
+  },
+  {
+    "name": "KnowBe4",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Kone India",
+    "category": "GCC",
+    "sector": "Engineering/Industrial"
+  },
+  {
+    "name": "Kore.ai",
+    "category": "GCC",
+    "sector": "Technology/AI"
+  },
+  {
+    "name": "KPMG",
+    "category": "MNC",
+    "sector": "Global MNC (Consulting/Audit)"
+  },
+  {
+    "name": "Kyndryl",
+    "category": "MNC",
+    "sector": "Global MNC (IT Services)"
+  },
+  {
+    "name": "L&T Construction",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Infra/Engineering)"
+  },
+  {
+    "name": "L&T Finance",
+    "category": "MNC",
+    "sector": "Indian Large Corp (FinServ)"
+  },
+  {
+    "name": "L&T Technology Services (LTTS)",
+    "category": "MNC",
+    "sector": "Large Indian IT"
+  },
+  {
+    "name": "L'Oréal",
+    "category": "GCC",
+    "sector": "Retail/Consumer"
+  },
+  {
+    "name": "Lam Research",
+    "category": "GCC",
+    "sector": "Semiconductor"
+  },
+  {
+    "name": "Larsen & Toubro (L&T)",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Infra/Engineering)"
+  },
+  {
+    "name": "Laurus Labs",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Pharma)"
+  },
+  {
+    "name": "Lear Corporation",
+    "category": "GCC",
+    "sector": "Engineering/Automotive"
+  },
+  {
+    "name": "Lenovo",
+    "category": "GCC",
+    "sector": "Technology/Hardware"
+  },
+  {
+    "name": "Linde India",
+    "category": "GCC",
+    "sector": "Engineering/Industrial"
+  },
+  {
+    "name": "LinkedIn",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Lloyds Technology Centre",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "Lockheed Martin",
+    "category": "GCC",
+    "sector": "Engineering/Aerospace"
+  },
+  {
+    "name": "LogicMonitor",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Lonza",
+    "category": "GCC",
+    "sector": "Healthcare/Pharma"
+  },
+  {
+    "name": "Lowe's",
+    "category": "GCC",
+    "sector": "Retail/Consumer"
+  },
+  {
+    "name": "LPL Financial",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "LSEG",
+    "category": "GCC",
+    "sector": "BFSI/Data"
+  },
+  {
+    "name": "LTIMindtree",
+    "category": "MNC",
+    "sector": "Large Indian IT"
+  },
+  {
+    "name": "Lumen Technologies",
+    "category": "GCC",
+    "sector": "Telecom"
+  },
+  {
+    "name": "Luminous Power Technologies",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Infra/Engineering)"
+  },
+  {
+    "name": "Macquarie Group",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "Maersk Global Service Centre (India)",
+    "category": "GCC",
+    "sector": "Logistics"
+  },
+  {
+    "name": "Marriott International",
+    "category": "GCC",
+    "sector": "Retail/Consumer"
+  },
+  {
+    "name": "Mars",
+    "category": "GCC",
+    "sector": "Retail/Consumer"
+  },
+  {
+    "name": "Marsh McLennan",
+    "category": "GCC",
+    "sector": "BFSI/Insurance"
+  },
+  {
+    "name": "Marvell Technology",
+    "category": "GCC",
+    "sector": "Semiconductor"
+  },
+  {
+    "name": "MassMutual India",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "Mastercard",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "Materialise",
+    "category": "GCC",
+    "sector": "Engineering/Industrial"
+  },
+  {
+    "name": "MathWorks",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "McDonald's",
+    "category": "GCC",
+    "sector": "Retail/Consumer"
+  },
+  {
+    "name": "McKesson",
+    "category": "GCC",
+    "sector": "Healthcare/IT"
+  },
+  {
+    "name": "McKinsey & Company",
+    "category": "MNC",
+    "sector": "Global MNC (Consulting)"
+  },
+  {
+    "name": "Medicover Hospitals",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Healthcare)"
+  },
+  {
+    "name": "Medtronic",
+    "category": "GCC",
+    "sector": "Healthcare/MedTech"
+  },
+  {
+    "name": "Megha Engineering (MEIL)",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Infra)"
+  },
+  {
+    "name": "Mercedes-Benz Research & Development India",
+    "category": "GCC",
+    "sector": "Engineering/Automotive"
+  },
+  {
+    "name": "Mercer",
+    "category": "GCC",
+    "sector": "Professional Services"
+  },
+  {
+    "name": "Merck Group",
+    "category": "GCC",
+    "sector": "Healthcare/Pharma"
+  },
+  {
+    "name": "Meta",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "MetLife",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "Microchip Technology",
+    "category": "GCC",
+    "sector": "Semiconductor"
+  },
+  {
+    "name": "Micron Technology",
+    "category": "GCC",
+    "sector": "Semiconductor"
+  },
+  {
+    "name": "Microsoft",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "MIDHANI",
+    "category": "MNC",
+    "sector": "PSU / Defence"
+  },
+  {
+    "name": "Miltenyi Biotec",
+    "category": "GCC",
+    "sector": "Healthcare/Pharma"
+  },
+  {
+    "name": "Mitsui & Co.",
+    "category": "GCC",
+    "sector": "Professional Services"
+  },
+  {
+    "name": "ModMed",
+    "category": "GCC",
+    "sector": "Healthcare/IT"
+  },
+  {
+    "name": "Morgan Stanley",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "Motorola Solutions",
+    "category": "GCC",
+    "sector": "Technology/Hardware"
+  },
+  {
+    "name": "Mphasis",
+    "category": "MNC",
+    "sector": "Large Indian IT"
+  },
+  {
+    "name": "MSD (Merck & Co.)",
+    "category": "GCC",
+    "sector": "Healthcare/Pharma"
+  },
+  {
+    "name": "MSN Laboratories",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Pharma)"
+  },
+  {
+    "name": "My Home Group",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Real Estate)"
+  },
+  {
+    "name": "Nasuni",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Natco Pharma",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Pharma)"
+  },
+  {
+    "name": "NationsBenefits",
+    "category": "GCC",
+    "sector": "Healthcare/IT"
+  },
+  {
+    "name": "Nationwide",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "NCC Limited",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Infra)"
+  },
+  {
+    "name": "NCR Atleos",
+    "category": "GCC",
+    "sector": "Technology/Fintech"
+  },
+  {
+    "name": "NCR Voyix",
+    "category": "GCC",
+    "sector": "Technology/Fintech"
+  },
+  {
+    "name": "Nektar Therapeutics",
+    "category": "GCC",
+    "sector": "Healthcare/Pharma"
+  },
+  {
+    "name": "Ness Digital Engineering",
+    "category": "MNC",
+    "sector": "Global MNC (IT Services)"
+  },
+  {
+    "name": "Nestlé",
+    "category": "GCC",
+    "sector": "Retail/Consumer"
+  },
+  {
+    "name": "Netcracker",
+    "category": "GCC",
+    "sector": "Technology/Telecom Software"
+  },
+  {
+    "name": "Netflix",
+    "category": "GCC",
+    "sector": "Media/Telecom"
+  },
+  {
+    "name": "Neuland Laboratories",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Pharma)"
+  },
+  {
+    "name": "New Relic",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Newmark",
+    "category": "GCC",
+    "sector": "Professional/Real Estate"
+  },
+  {
+    "name": "NielsenIQ",
+    "category": "MNC",
+    "sector": "Global MNC (Research)"
+  },
+  {
+    "name": "NMDC",
+    "category": "MNC",
+    "sector": "PSU / Defence"
+  },
+  {
+    "name": "Nokia",
+    "category": "GCC",
+    "sector": "Telecom"
+  },
+  {
+    "name": "Nordea",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "Novartis",
+    "category": "GCC",
+    "sector": "Healthcare/Pharma"
+  },
+  {
+    "name": "NTT DATA",
+    "category": "MNC",
+    "sector": "Global MNC (IT Services)"
+  },
+  {
+    "name": "Nucleus Software Exim",
+    "category": "MNC",
+    "sector": "Large Indian IT"
+  },
+  {
+    "name": "Nutanix",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "NVIDIA",
+    "category": "GCC",
+    "sector": "Semiconductor"
+  },
+  {
+    "name": "O.C. Tanner",
+    "category": "GCC",
+    "sector": "Professional Services"
+  },
+  {
+    "name": "Octave",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Omnicom Global Solutions",
+    "category": "GCC",
+    "sector": "Media/Advertising"
+  },
+  {
+    "name": "Opella",
+    "category": "GCC",
+    "sector": "Healthcare/Pharma"
+  },
+  {
+    "name": "Opendoor",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "OpenText",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Optum",
+    "category": "GCC",
+    "sector": "Healthcare/IT"
+  },
+  {
+    "name": "Oracle",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "OTIS",
+    "category": "GCC",
+    "sector": "Engineering/Industrial"
+  },
+  {
+    "name": "P&G (Procter & Gamble)",
+    "category": "GCC",
+    "sector": "Retail/Consumer"
+  },
+  {
+    "name": "Palo Alto Networks",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Parexel",
+    "category": "GCC",
+    "sector": "Healthcare/Pharma"
+  },
+  {
+    "name": "PayPal",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "Pega (Pegasystems)",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "PepsiCo",
+    "category": "GCC",
+    "sector": "Retail/Consumer"
+  },
+  {
+    "name": "PerkinElmer",
+    "category": "GCC",
+    "sector": "Healthcare/Pharma"
+  },
+  {
+    "name": "Persistent Systems",
+    "category": "MNC",
+    "sector": "Large Indian IT"
+  },
+  {
+    "name": "Phenom",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Philip Morris International",
+    "category": "GCC",
+    "sector": "Retail/Consumer"
+  },
+  {
+    "name": "Philips",
+    "category": "GCC",
+    "sector": "Healthcare/MedTech"
+  },
+  {
+    "name": "Pinkerton",
+    "category": "GCC",
+    "sector": "Professional Services"
+  },
+  {
+    "name": "Piramal Pharma Solutions",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Pharma)"
+  },
+  {
+    "name": "Prestige Group",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Real Estate)"
+  },
+  {
+    "name": "Principal Financial Group",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "Progress Software",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "ProPharma",
+    "category": "GCC",
+    "sector": "Healthcare/Pharma"
+  },
+  {
+    "name": "Protiviti",
+    "category": "MNC",
+    "sector": "Global MNC (Consulting/Audit)"
+  },
+  {
+    "name": "Providence India",
+    "category": "GCC",
+    "sector": "Healthcare/IT"
+  },
+  {
+    "name": "Publicis Groupe",
+    "category": "GCC",
+    "sector": "Media/Advertising"
+  },
+  {
+    "name": "Publicis Sapient",
+    "category": "MNC",
+    "sector": "Global MNC (IT/Consulting)"
+  },
+  {
+    "name": "Pure Storage",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "PwC (Acceleration Centers)",
+    "category": "MNC",
+    "sector": "Global MNC (Consulting/Audit)"
+  },
+  {
+    "name": "Qlik",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Qualcomm",
+    "category": "GCC",
+    "sector": "Semiconductor"
+  },
+  {
+    "name": "Qualitest",
+    "category": "MNC",
+    "sector": "Global MNC (IT Services)"
+  },
+  {
+    "name": "Qualtrics",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Quest Diagnostics",
+    "category": "GCC",
+    "sector": "Healthcare/Diagnostics"
+  },
+  {
+    "name": "Quest Global",
+    "category": "MNC",
+    "sector": "Global MNC (IT Services)"
+  },
+  {
+    "name": "R1 RCM",
+    "category": "MNC",
+    "sector": "Global MNC (Healthcare Services)"
+  },
+  {
+    "name": "Rackspace Technology",
+    "category": "MNC",
+    "sector": "Global MNC (IT Services)"
+  },
+  {
+    "name": "Rainbow Children's Hospital",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Healthcare)"
+  },
+  {
+    "name": "Rajapushpa Properties",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Real Estate)"
+  },
+  {
+    "name": "Ramboll",
+    "category": "GCC",
+    "sector": "Engineering/Industrial"
+  },
+  {
+    "name": "Ramco Systems",
+    "category": "MNC",
+    "sector": "Large Indian IT"
+  },
+  {
+    "name": "Randstad",
+    "category": "GCC",
+    "sector": "Professional Services"
+  },
+  {
+    "name": "RBS (Royal Bank of Scotland)",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "Re Sustainability (Ramky)",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Infra)"
+  },
+  {
+    "name": "RealPage",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Reckitt",
+    "category": "GCC",
+    "sector": "Retail/Consumer"
+  },
+  {
+    "name": "Red Hat",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Redwood Software",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Regeneron",
+    "category": "GCC",
+    "sector": "Healthcare/Pharma"
+  },
+  {
+    "name": "RELX",
+    "category": "GCC",
+    "sector": "Professional/Data"
+  },
+  {
+    "name": "Renesas",
+    "category": "GCC",
+    "sector": "Semiconductor"
+  },
+  {
+    "name": "Rieter India",
+    "category": "GCC",
+    "sector": "Engineering/Industrial"
+  },
+  {
+    "name": "Roche",
+    "category": "GCC",
+    "sector": "Healthcare/Pharma"
+  },
+  {
+    "name": "Rocket Software",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Rockwell Automation",
+    "category": "GCC",
+    "sector": "Engineering/Industrial"
+  },
+  {
+    "name": "Rolls-Royce Solutions India",
+    "category": "GCC",
+    "sector": "Engineering/Industrial"
+  },
+  {
+    "name": "RSM",
+    "category": "MNC",
+    "sector": "Global MNC (Consulting/Audit)"
+  },
+  {
+    "name": "RTI International",
+    "category": "MNC",
+    "sector": "Global MNC (Research)"
+  },
+  {
+    "name": "Rubrik",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Saab",
+    "category": "GCC",
+    "sector": "Engineering/Aerospace"
+  },
+  {
+    "name": "Safran",
+    "category": "GCC",
+    "sector": "Engineering/Aerospace"
+  },
+  {
+    "name": "Sai Life Sciences",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Pharma)"
+  },
+  {
+    "name": "Salesforce",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Samsung",
+    "category": "GCC",
+    "sector": "Technology/Hardware"
+  },
+  {
+    "name": "Sandoz",
+    "category": "GCC",
+    "sector": "Healthcare/Pharma"
+  },
+  {
+    "name": "Sanofi",
+    "category": "GCC",
+    "sector": "Healthcare/Pharma"
+  },
+  {
+    "name": "SAP",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "SAS",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Sattva Group",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Real Estate)"
+  },
+  {
+    "name": "Schneider Electric",
+    "category": "GCC",
+    "sector": "Engineering/Industrial"
+  },
+  {
+    "name": "Schrödinger",
+    "category": "GCC",
+    "sector": "Technology/Life Sciences Software"
+  },
+  {
+    "name": "Seagate Technology",
+    "category": "GCC",
+    "sector": "Technology/Hardware"
+  },
+  {
+    "name": "ServiceNow",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "SGS India",
+    "category": "GCC",
+    "sector": "Professional Services"
+  },
+  {
+    "name": "Shell",
+    "category": "GCC",
+    "sector": "Energy"
+  },
+  {
+    "name": "Siemens",
+    "category": "MNC",
+    "sector": "Global MNC (Industrial Tech)"
+  },
+  {
+    "name": "Signify",
+    "category": "GCC",
+    "sector": "Engineering/Industrial"
+  },
+  {
+    "name": "Silicon Labs",
+    "category": "GCC",
+    "sector": "Semiconductor"
+  },
+  {
+    "name": "Skillsoft",
+    "category": "GCC",
+    "sector": "Technology/EdTech"
+  },
+  {
+    "name": "Sobha",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Real Estate)"
+  },
+  {
+    "name": "Solenis",
+    "category": "GCC",
+    "sector": "Engineering/Industrial"
+  },
+  {
+    "name": "Sonata Software",
+    "category": "MNC",
+    "sector": "Large Indian IT"
+  },
+  {
+    "name": "Sonatype",
+    "category": "GCC",
+    "sector": "Technology/Security"
+  },
+  {
+    "name": "Sony",
+    "category": "GCC",
+    "sector": "Technology/Hardware"
+  },
+  {
+    "name": "Southwest Airlines",
+    "category": "GCC",
+    "sector": "Retail/Consumer"
+  },
+  {
+    "name": "Splunk",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "SS&C Technologies",
+    "category": "GCC",
+    "sector": "Technology/FinTech"
+  },
+  {
+    "name": "Startek",
+    "category": "GCC",
+    "sector": "Professional Services"
+  },
+  {
+    "name": "State Street",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "Stellantis",
+    "category": "GCC",
+    "sector": "Engineering/Automotive"
+  },
+  {
+    "name": "Stryker India",
+    "category": "GCC",
+    "sector": "Healthcare/MedTech"
+  },
+  {
+    "name": "Sunshine Hospitals",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Healthcare)"
+  },
+  {
+    "name": "Sutherland",
+    "category": "MNC",
+    "sector": "Global MNC (BPO/CX)"
+  },
+  {
+    "name": "Swiss Re",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "Synaptics",
+    "category": "GCC",
+    "sector": "Semiconductor"
+  },
+  {
+    "name": "Synchronoss",
+    "category": "MNC",
+    "sector": "Global MNC (IT Services)"
+  },
+  {
+    "name": "Synchrony",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "Synechron",
+    "category": "MNC",
+    "sector": "Global MNC (IT Services)"
+  },
+  {
+    "name": "Syneos Health",
+    "category": "GCC",
+    "sector": "Healthcare/Pharma"
+  },
+  {
+    "name": "Synopsys",
+    "category": "GCC",
+    "sector": "Technology/Semiconductor"
+  },
+  {
+    "name": "T-Mobile (TMUS Global Solutions)",
+    "category": "GCC",
+    "sector": "Telecom"
+  },
+  {
+    "name": "Tata Advanced Systems",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Aerospace)"
+  },
+  {
+    "name": "Tata Consultancy Services (TCS)",
+    "category": "MNC",
+    "sector": "Large Indian IT"
+  },
+  {
+    "name": "Tata Elxsi",
+    "category": "MNC",
+    "sector": "Large Indian IT"
+  },
+  {
+    "name": "Tata Motors",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Automotive)"
+  },
+  {
+    "name": "Tavant",
+    "category": "MNC",
+    "sector": "Global MNC (IT Services)"
+  },
+  {
+    "name": "TE Connectivity",
+    "category": "GCC",
+    "sector": "Engineering/Industrial"
+  },
+  {
+    "name": "TeamLease",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Staffing)"
+  },
+  {
+    "name": "Tech Mahindra",
+    "category": "MNC",
+    "sector": "Large Indian IT"
+  },
+  {
+    "name": "TechnipFMC",
+    "category": "GCC",
+    "sector": "Energy"
+  },
+  {
+    "name": "Tektronix",
+    "category": "GCC",
+    "sector": "Engineering/Industrial"
+  },
+  {
+    "name": "Teleperformance",
+    "category": "MNC",
+    "sector": "Global MNC (BPO/CX)"
+  },
+  {
+    "name": "Telstra",
+    "category": "GCC",
+    "sector": "Telecom"
+  },
+  {
+    "name": "Temenos (Kony)",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Teradata",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Texas Instruments",
+    "category": "GCC",
+    "sector": "Semiconductor"
+  },
+  {
+    "name": "The Hartford",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "The World Bank Group",
+    "category": "GCC",
+    "sector": "Professional Services"
+  },
+  {
+    "name": "Thermo Fisher Scientific",
+    "category": "GCC",
+    "sector": "Healthcare/Pharma"
+  },
+  {
+    "name": "Thomson Reuters",
+    "category": "GCC",
+    "sector": "Professional/Data"
+  },
+  {
+    "name": "Thoughtworks",
+    "category": "MNC",
+    "sector": "Global MNC (IT Consulting)"
+  },
+  {
+    "name": "TIAA",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "TIBCO Software",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Tide",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "Tiffany & Co.",
+    "category": "GCC",
+    "sector": "Retail/Consumer"
+  },
+  {
+    "name": "TJX",
+    "category": "GCC",
+    "sector": "Retail/Consumer"
+  },
+  {
+    "name": "Tokyo Electron",
+    "category": "GCC",
+    "sector": "Semiconductor"
+  },
+  {
+    "name": "Trane Technologies",
+    "category": "GCC",
+    "sector": "Engineering/Industrial"
+  },
+  {
+    "name": "TransUnion",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "Trellix (McAfee Enterprise)",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Trimont",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "TriNet",
+    "category": "GCC",
+    "sector": "Professional Services"
+  },
+  {
+    "name": "Truist",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "Truveta",
+    "category": "GCC",
+    "sector": "Healthcare/IT"
+  },
+  {
+    "name": "Tyco International",
+    "category": "GCC",
+    "sector": "Engineering/Industrial"
+  },
+  {
+    "name": "TÜV SÜD",
+    "category": "GCC",
+    "sector": "Professional Services"
+  },
+  {
+    "name": "Uber",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "UBS",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "UKG (Ultimate Kronos Group)",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Unisys",
+    "category": "MNC",
+    "sector": "Global MNC (IT Services)"
+  },
+  {
+    "name": "United Rentals",
+    "category": "GCC",
+    "sector": "Engineering/Industrial"
+  },
+  {
+    "name": "United Technologies Corporation (UTC)",
+    "category": "GCC",
+    "sector": "Engineering/Aerospace"
+  },
+  {
+    "name": "UnitedHealth Group",
+    "category": "GCC",
+    "sector": "Healthcare/IT"
+  },
+  {
+    "name": "UPS",
+    "category": "GCC",
+    "sector": "Logistics"
+  },
+  {
+    "name": "UST",
+    "category": "MNC",
+    "sector": "Global MNC (IT Services)"
+  },
+  {
+    "name": "ValueLabs",
+    "category": "MNC",
+    "sector": "Large Indian IT"
+  },
+  {
+    "name": "ValueMomentum",
+    "category": "MNC",
+    "sector": "Large Indian IT"
+  },
+  {
+    "name": "Vanguard",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "Veeam",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Veradigm",
+    "category": "GCC",
+    "sector": "Healthcare/IT"
+  },
+  {
+    "name": "Verisk",
+    "category": "GCC",
+    "sector": "Professional/Data"
+  },
+  {
+    "name": "Verizon",
+    "category": "GCC",
+    "sector": "Telecom"
+  },
+  {
+    "name": "Viatris",
+    "category": "MNC",
+    "sector": "Global MNC (Pharma)"
+  },
+  {
+    "name": "Vijaya Diagnostic Centre",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Healthcare)"
+  },
+  {
+    "name": "Vimta Labs",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Pharma)"
+  },
+  {
+    "name": "Virtusa",
+    "category": "MNC",
+    "sector": "Large Indian IT"
+  },
+  {
+    "name": "Visa",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "VMware by Broadcom",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Volvo Group",
+    "category": "GCC",
+    "sector": "Engineering/Automotive"
+  },
+  {
+    "name": "Voya India",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "Wabtec",
+    "category": "GCC",
+    "sector": "Engineering/Industrial"
+  },
+  {
+    "name": "Walmart Global Tech India",
+    "category": "GCC",
+    "sector": "Retail/Consumer"
+  },
+  {
+    "name": "Warner Bros. Discovery",
+    "category": "GCC",
+    "sector": "Media/Telecom"
+  },
+  {
+    "name": "Wells Fargo",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "Western Digital",
+    "category": "GCC",
+    "sector": "Technology/Hardware"
+  },
+  {
+    "name": "Western Union",
+    "category": "GCC",
+    "sector": "BFSI"
+  },
+  {
+    "name": "WeWork",
+    "category": "GCC",
+    "sector": "Professional/Real Estate"
+  },
+  {
+    "name": "Whirlpool India",
+    "category": "GCC",
+    "sector": "Engineering/Industrial"
+  },
+  {
+    "name": "Wipro",
+    "category": "MNC",
+    "sector": "Large Indian IT"
+  },
+  {
+    "name": "Workday",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Xebia",
+    "category": "MNC",
+    "sector": "Global MNC (IT Services)"
+  },
+  {
+    "name": "Xerox",
+    "category": "GCC",
+    "sector": "Technology/Hardware"
+  },
+  {
+    "name": "Xiaomi",
+    "category": "GCC",
+    "sector": "Technology/Hardware"
+  },
+  {
+    "name": "Xylem Inc.",
+    "category": "GCC",
+    "sector": "Engineering/Industrial"
+  },
+  {
+    "name": "YASH Technologies",
+    "category": "MNC",
+    "sector": "Large Indian IT"
+  },
+  {
+    "name": "Yashoda Hospitals",
+    "category": "MNC",
+    "sector": "Indian Large Corp (Healthcare)"
+  },
+  {
+    "name": "Yext",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Yokogawa India",
+    "category": "GCC",
+    "sector": "Engineering/Industrial"
+  },
+  {
+    "name": "Zebra Technologies",
+    "category": "GCC",
+    "sector": "Technology/Hardware"
+  },
+  {
+    "name": "Zelis",
+    "category": "GCC",
+    "sector": "Healthcare FinTech"
+  },
+  {
+    "name": "Zensar",
+    "category": "MNC",
+    "sector": "Large Indian IT"
+  },
+  {
+    "name": "ZF LIFETEC",
+    "category": "GCC",
+    "sector": "Engineering/Automotive"
+  },
+  {
+    "name": "Zoetis",
+    "category": "GCC",
+    "sector": "Healthcare/Pharma"
+  },
+  {
+    "name": "Zoom Video Communications",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Zscaler",
+    "category": "GCC",
+    "sector": "Technology/Product"
+  },
+  {
+    "name": "Zurich Insurance",
+    "category": "GCC",
+    "sector": "BFSI"
+  }
+]
